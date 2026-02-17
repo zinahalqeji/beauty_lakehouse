@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "n_customers": 10000,
+  "n_products": 2000,
+  "n_orders": 100000,
+  "min_items_per_order": 1,
+  "max_items_per_order": 6,
+  "generated_at": "2026-02-16T18:21:41.880461Z"
+}

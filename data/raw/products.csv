@@ -1,0 +1,2001 @@
+product_id,product_name,product_type,category,price,cost,available_stock
+1,Silk Base Coat 50ml,Base Coat,Nail Care,38.8,18.27,126
+2,Fresh Top Coat 100ml,Top Coat,Nail Care,20.03,14.02,112
+3,Pure Shampoo 250ml,Shampoo,Shampoo,11.62,6.26,117
+4,Radiant Top Coat 75ml,Top Coat,Nail Care,14.64,7.47,125
+5,Hydra Body Scrub 100ml,Body Scrub,Body Care,8.42,5.36,133
+6,Glow Nail Polish 150ml,Nail Polish,Nail Care,32.5,21.47,126
+7,Hydra Shampoo 30ml,Shampoo,Shampoo,4.55,2.73,118
+8,Revive Shampoo 100ml,Shampoo,Shampoo,14.48,9.71,136
+9,Balance Nail Clippers 100ml,Nail Clippers,Nail Tools,25.93,11.2,122
+10,Silk Cuticle Oil 50ml,Cuticle Oil,Nail Care,7.27,4.04,116
+11,Repair Dry Shampoo 150ml,Dry Shampoo,Shampoo,5.37,2.98,113
+12,Calming Top Coat 150ml,Top Coat,Nail Care,2.65,1.28,129
+13,Gentle Lip Balm 150ml,Lip Balm,Makeup,13.1,6.73,117
+14,Velvet Base Coat 50ml,Base Coat,Nail Care,6.59,3.56,113
+15,Clarifying Blush 150ml,Blush,Makeup,33.16,18.81,122
+16,Velvet Scalp Serum 200ml,Scalp Serum,Hair Treatment,4.75,2.69,123
+17,Repair Toner 75ml,Toner,Face Care,25.1,15.3,144
+18,Clarifying Toner 30ml,Toner,Face Care,5.8,3.17,110
+19,Gentle Face Cleanser 100ml,Face Cleanser,Face Care,4.9,2.0,121
+20,Nourish Body Wash 200ml,Body Wash,Body Care,6.28,3.21,120
+21,Repair Conditioner 150ml,Conditioner,Conditioner,38.87,19.61,127
+22,Gentle Toner 100ml,Toner,Face Care,6.28,2.63,127
+23,Silk Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,41.0,16.85,111
+24,Calming Toner 200ml,Toner,Face Care,19.34,10.53,132
+25,Glow Hair Oil 50ml,Hair Oil,Hair Treatment,10.86,6.48,109
+26,Nourish Hair Mask 30ml,Hair Mask,Hair Mask,7.09,3.73,116
+27,Fresh Nail Brush 50ml,Nail Brush,Nail Tools,75.46,44.51,108
+28,Nourish Blush 75ml,Blush,Makeup,10.27,6.94,117
+29,Soothing Lip Balm 150ml,Lip Balm,Makeup,10.31,5.06,108
+30,Velvet Hair Oil 200ml,Hair Oil,Hair Treatment,52.51,25.81,115
+31,Radiant Toner 30ml,Toner,Face Care,60.5,34.61,117
+32,Pure BB Cream 50ml,BB Cream,Face Care,14.7,9.15,106
+33,Gentle Body Lotion 100ml,Body Lotion,Body Care,42.41,25.46,108
+34,Balance BB Cream 150ml,BB Cream,Face Care,10.07,4.67,125
+35,Velvet Dry Shampoo 250ml,Dry Shampoo,Shampoo,99.24,45.72,101
+36,Repair Body Wash 50ml,Body Wash,Body Care,5.76,3.1,105
+37,Silk Cuticle Oil 250ml,Cuticle Oil,Nail Care,7.91,4.85,116
+38,Glow Scalp Serum 50ml,Scalp Serum,Hair Treatment,47.0,30.05,125
+39,Pure Conditioner 100ml,Conditioner,Conditioner,13.05,6.22,127
+40,Nourish Nail Polish 150ml,Nail Polish,Nail Care,49.29,31.97,133
+41,Nourish Lip Balm 150ml,Lip Balm,Makeup,11.33,7.35,145
+42,Fresh Conditioner 50ml,Conditioner,Conditioner,27.87,19.28,120
+43,Radiant Scalp Serum 30ml,Scalp Serum,Hair Treatment,9.45,5.03,111
+44,Radiant Body Lotion 150ml,Body Lotion,Body Care,15.48,7.97,132
+45,Pure Top Coat 30ml,Top Coat,Nail Care,5.9,3.72,129
+46,Calming Lipstick 30ml,Lipstick,Makeup,15.83,7.81,110
+47,Botanical Hair Mask 150ml,Hair Mask,Hair Mask,8.15,4.67,122
+48,Radiant Nail Strengthener 100ml,Nail Strengthener,Nail Care,86.32,44.19,113
+49,Luxe Nail Polish 30ml,Nail Polish,Nail Care,12.72,7.95,115
+50,Clarifying Body Scrub 30ml,Body Scrub,Body Care,6.31,3.41,108
+51,Silk Body Wash 200ml,Body Wash,Body Care,28.6,15.07,105
+52,Glow Lip Balm 250ml,Lip Balm,Makeup,6.26,3.08,141
+53,Velvet Hair Oil 50ml,Hair Oil,Hair Treatment,33.17,16.44,125
+54,Silk Cuticle Oil 75ml,Cuticle Oil,Nail Care,10.52,6.68,118
+55,Gentle Lipstick 150ml,Lipstick,Makeup,15.96,10.23,131
+56,Hydra Toner 150ml,Toner,Face Care,14.13,9.31,115
+57,Balance Mascara 250ml,Mascara,Makeup,13.42,8.44,119
+58,Velvet Toner 250ml,Toner,Face Care,17.28,10.65,126
+59,Gentle Leave-in Treatment 75ml,Leave-in Treatment,Hair Treatment,9.67,6.04,122
+60,Glow Hair Mask 30ml,Hair Mask,Hair Mask,6.86,2.82,116
+61,Soothing Toner 30ml,Toner,Face Care,16.96,10.47,113
+62,Bright Hair Mask 100ml,Hair Mask,Hair Mask,11.96,5.95,123
+63,Velvet Nail Polish 250ml,Nail Polish,Nail Care,5.91,2.62,113
+64,Bright Nail Brush 100ml,Nail Brush,Nail Tools,26.88,16.1,118
+65,Radiant Hand Cream 150ml,Hand Cream,Hand Care,16.23,9.64,135
+66,Silk Nail Polish 75ml,Nail Polish,Nail Care,6.89,3.11,119
+67,Velvet Mascara 30ml,Mascara,Makeup,13.6,7.16,106
+68,Calming Hair Mask 150ml,Hair Mask,Hair Mask,14.65,10.0,102
+69,Bright Nail Clippers 30ml,Nail Clippers,Nail Tools,7.21,4.38,138
+70,Bright Body Lotion 250ml,Body Lotion,Body Care,206.42,91.11,97
+71,Clarifying Nail Polish 200ml,Nail Polish,Nail Care,16.34,8.03,122
+72,Calming Cuticle Oil 150ml,Cuticle Oil,Nail Care,13.79,5.84,146
+73,Repair Foundation 30ml,Foundation,Makeup,115.53,64.68,121
+74,Gentle Scalp Serum 50ml,Scalp Serum,Hair Treatment,23.7,11.65,112
+75,Fresh Top Coat 100ml,Top Coat,Nail Care,43.25,18.39,146
+76,Revive Foundation 75ml,Foundation,Makeup,17.73,10.06,103
+77,Silk Face Serum 30ml,Face Serum,Face Care,17.31,11.45,131
+78,Gentle Body Lotion 200ml,Body Lotion,Body Care,8.3,5.25,107
+79,Botanical Top Coat 100ml,Top Coat,Nail Care,28.08,15.85,121
+80,Soothing BB Cream 50ml,BB Cream,Face Care,72.16,43.72,121
+81,Soothing Nail File 50ml,Nail File,Nail Tools,58.07,30.87,112
+82,Nourish BB Cream 250ml,BB Cream,Face Care,6.24,2.76,110
+83,Clarifying Cuticle Oil 30ml,Cuticle Oil,Nail Care,72.8,46.62,122
+84,Soothing Toner 30ml,Toner,Face Care,8.48,5.46,133
+85,Nourish Dry Shampoo 150ml,Dry Shampoo,Shampoo,7.75,3.39,142
+86,Repair Scalp Serum 150ml,Scalp Serum,Hair Treatment,8.1,5.09,98
+87,Silk Hair Serum 50ml,Hair Serum,Hair Treatment,12.03,7.44,112
+88,Calming Nail File 30ml,Nail File,Nail Tools,3.5,1.77,129
+89,Fresh Nail Clippers 150ml,Nail Clippers,Nail Tools,17.15,10.82,124
+90,Soothing Shampoo 150ml,Shampoo,Shampoo,13.36,6.03,145
+91,Clarifying Scalp Serum 30ml,Scalp Serum,Hair Treatment,17.0,11.71,110
+92,Nourish Top Coat 150ml,Top Coat,Nail Care,11.06,7.39,102
+93,Pure Foundation 200ml,Foundation,Makeup,4.6,2.22,140
+94,Repair Base Coat 250ml,Base Coat,Nail Care,13.35,8.03,110
+95,Gentle Body Wash 250ml,Body Wash,Body Care,43.66,24.12,127
+96,Hydra Cuticle Oil 100ml,Cuticle Oil,Nail Care,7.33,4.49,116
+97,Hydra Top Coat 200ml,Top Coat,Nail Care,8.15,4.11,106
+98,Luxe Lip Balm 150ml,Lip Balm,Makeup,23.66,10.76,106
+99,Silk Hair Mask 30ml,Hair Mask,Hair Mask,6.11,4.21,125
+100,Glow Face Cream 150ml,Face Cream,Face Care,19.7,9.4,112
+101,Nourish Body Lotion 100ml,Body Lotion,Body Care,23.46,13.33,117
+102,Gentle Scalp Serum 30ml,Scalp Serum,Hair Treatment,10.48,4.8,139
+103,Velvet Nail Clippers 30ml,Nail Clippers,Nail Tools,9.03,4.74,138
+104,Soothing Blush 250ml,Blush,Makeup,5.33,2.22,117
+105,Fresh Hair Serum 250ml,Hair Serum,Hair Treatment,8.73,3.78,127
+106,Balance Body Scrub 100ml,Body Scrub,Body Care,25.9,11.86,126
+107,Botanical Nail File 75ml,Nail File,Nail Tools,32.16,17.8,106
+108,Pure Cuticle Oil 50ml,Cuticle Oil,Nail Care,17.3,10.07,89
+109,Clarifying Face Cream 100ml,Face Cream,Face Care,10.06,5.42,110
+110,Silk Body Scrub 75ml,Body Scrub,Body Care,17.44,9.16,120
+111,Velvet Face Cleanser 250ml,Face Cleanser,Face Care,8.54,5.04,139
+112,Glow Hair Oil 75ml,Hair Oil,Hair Treatment,18.98,12.34,97
+113,Radiant Face Cleanser 30ml,Face Cleanser,Face Care,29.89,13.67,116
+114,Glow Hair Mask 50ml,Hair Mask,Hair Mask,11.33,7.91,122
+115,Gentle Face Cream 100ml,Face Cream,Face Care,8.65,3.65,104
+116,Pure BB Cream 75ml,BB Cream,Face Care,11.13,6.27,122
+117,Calming Body Scrub 100ml,Body Scrub,Body Care,39.25,15.99,143
+118,Clarifying Lipstick 75ml,Lipstick,Makeup,153.4,70.05,112
+119,Repair Hair Mask 200ml,Hair Mask,Hair Mask,27.63,11.78,118
+120,Radiant BB Cream 50ml,BB Cream,Face Care,15.51,9.38,117
+121,Nourish Lip Balm 75ml,Lip Balm,Makeup,7.55,3.75,113
+122,Repair Conditioner 200ml,Conditioner,Conditioner,7.18,4.94,110
+123,Pure Hair Serum 50ml,Hair Serum,Hair Treatment,23.15,15.99,122
+124,Glow Body Scrub 150ml,Body Scrub,Body Care,8.81,3.73,127
+125,Fresh Body Scrub 50ml,Body Scrub,Body Care,37.26,20.92,104
+126,Fresh Hair Mask 75ml,Hair Mask,Hair Mask,10.15,5.27,125
+127,Fresh Nail Polish 200ml,Nail Polish,Nail Care,51.34,26.49,115
+128,Luxe Base Coat 250ml,Base Coat,Nail Care,11.85,7.28,127
+129,Nourish Body Lotion 250ml,Body Lotion,Body Care,40.72,27.26,113
+130,Velvet Base Coat 200ml,Base Coat,Nail Care,28.17,19.21,124
+131,Bright Cuticle Oil 200ml,Cuticle Oil,Nail Care,32.38,22.39,141
+132,Repair Body Scrub 250ml,Body Scrub,Body Care,15.57,6.46,103
+133,Fresh Nail Strengthener 200ml,Nail Strengthener,Nail Care,9.67,5.39,126
+134,Revive Hair Mask 150ml,Hair Mask,Hair Mask,36.88,23.93,96
+135,Hydra Blush 50ml,Blush,Makeup,69.03,39.63,128
+136,Clarifying BB Cream 150ml,BB Cream,Face Care,7.38,4.21,126
+137,Botanical Lipstick 100ml,Lipstick,Makeup,24.06,15.36,103
+138,Radiant Face Cleanser 200ml,Face Cleanser,Face Care,23.98,10.46,124
+139,Pure Base Coat 200ml,Base Coat,Nail Care,18.78,11.08,102
+140,Nourish Nail File 150ml,Nail File,Nail Tools,51.67,23.29,109
+141,Silk Hand Cream 150ml,Hand Cream,Hand Care,8.84,3.9,111
+142,Bright Face Serum 50ml,Face Serum,Face Care,39.59,22.32,108
+143,Clarifying Body Lotion 75ml,Body Lotion,Body Care,13.17,5.36,134
+144,Gentle Face Cleanser 250ml,Face Cleanser,Face Care,2.54,1.23,106
+145,Hydra Body Scrub 30ml,Body Scrub,Body Care,5.12,2.7,119
+146,Hydra Nail Strengthener 50ml,Nail Strengthener,Nail Care,16.92,9.97,115
+147,Glow Foundation 100ml,Foundation,Makeup,43.64,29.96,106
+148,Balance Hair Mask 150ml,Hair Mask,Hair Mask,39.06,26.23,99
+149,Revive Conditioner 250ml,Conditioner,Conditioner,17.89,12.03,117
+150,Hydra Body Wash 100ml,Body Wash,Body Care,6.58,3.69,120
+151,Glow Hair Serum 30ml,Hair Serum,Hair Treatment,6.26,2.87,131
+152,Gentle Body Lotion 50ml,Body Lotion,Body Care,23.02,10.74,136
+153,Soothing BB Cream 30ml,BB Cream,Face Care,15.9,11.01,121
+154,Pure Face Cream 250ml,Face Cream,Face Care,35.76,14.72,137
+155,Balance Conditioner 200ml,Conditioner,Conditioner,12.61,5.14,110
+156,Calming Face Cream 75ml,Face Cream,Face Care,8.87,5.82,128
+157,Glow BB Cream 75ml,BB Cream,Face Care,13.16,8.05,106
+158,Silk Nail File 200ml,Nail File,Nail Tools,16.27,6.94,109
+159,Calming Base Coat 30ml,Base Coat,Nail Care,3.23,1.61,120
+160,Fresh Body Wash 150ml,Body Wash,Body Care,24.01,14.12,136
+161,Revive Conditioner 100ml,Conditioner,Conditioner,18.43,11.84,123
+162,Glow Nail Clippers 150ml,Nail Clippers,Nail Tools,35.08,23.96,134
+163,Glow Hand Cream 250ml,Hand Cream,Hand Care,30.69,13.78,120
+164,Fresh Face Cream 30ml,Face Cream,Face Care,39.12,24.87,126
+165,Fresh Toner 30ml,Toner,Face Care,63.09,27.35,105
+166,Calming Nail File 150ml,Nail File,Nail Tools,18.39,8.18,118
+167,Calming Nail Strengthener 75ml,Nail Strengthener,Nail Care,2.81,1.34,102
+168,Radiant Hand Cream 75ml,Hand Cream,Hand Care,32.75,14.64,118
+169,Pure Nail Clippers 75ml,Nail Clippers,Nail Tools,42.92,23.34,125
+170,Repair Hair Mask 200ml,Hair Mask,Hair Mask,13.71,9.13,121
+171,Gentle Nail Strengthener 30ml,Nail Strengthener,Nail Care,3.28,1.51,112
+172,Fresh Face Cleanser 250ml,Face Cleanser,Face Care,37.78,25.3,92
+173,Botanical Face Cream 150ml,Face Cream,Face Care,16.19,6.49,108
+174,Glow Top Coat 50ml,Top Coat,Nail Care,5.65,3.21,144
+175,Glow Face Cleanser 200ml,Face Cleanser,Face Care,13.28,5.77,131
+176,Gentle Toner 75ml,Toner,Face Care,16.38,9.94,112
+177,Bright Hair Mask 30ml,Hair Mask,Hair Mask,13.27,8.51,126
+178,Calming Lip Balm 100ml,Lip Balm,Makeup,10.97,6.66,127
+179,Velvet Nail File 100ml,Nail File,Nail Tools,35.22,24.07,115
+180,Velvet Body Wash 250ml,Body Wash,Body Care,48.47,25.76,115
+181,Glow Conditioner 250ml,Conditioner,Conditioner,77.13,52.43,97
+182,Calming Nail File 200ml,Nail File,Nail Tools,7.37,3.77,122
+183,Clarifying Body Wash 100ml,Body Wash,Body Care,46.55,26.81,105
+184,Revive Shampoo 100ml,Shampoo,Shampoo,19.16,10.71,129
+185,Botanical Hand Cream 150ml,Hand Cream,Hand Care,22.21,14.11,109
+186,Nourish Shampoo 30ml,Shampoo,Shampoo,43.45,27.43,123
+187,Bright Face Cream 30ml,Face Cream,Face Care,15.8,8.68,134
+188,Balance Body Lotion 75ml,Body Lotion,Body Care,14.21,9.09,145
+189,Velvet Face Cream 30ml,Face Cream,Face Care,9.44,4.3,113
+190,Botanical Hair Oil 50ml,Hair Oil,Hair Treatment,6.47,2.97,125
+191,Soothing Toner 75ml,Toner,Face Care,9.92,5.27,111
+192,Pure Nail Strengthener 75ml,Nail Strengthener,Nail Care,18.86,8.22,121
+193,Botanical Body Scrub 100ml,Body Scrub,Body Care,15.8,7.67,114
+194,Balance Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,12.13,6.71,128
+195,Fresh Body Scrub 50ml,Body Scrub,Body Care,12.43,6.27,113
+196,Fresh Hair Oil 250ml,Hair Oil,Hair Treatment,38.13,17.56,131
+197,Silk Conditioner 150ml,Conditioner,Conditioner,18.93,8.36,106
+198,Velvet Body Scrub 150ml,Body Scrub,Body Care,7.43,3.67,111
+199,Balance BB Cream 30ml,BB Cream,Face Care,17.22,10.17,100
+200,Pure Shampoo 150ml,Shampoo,Shampoo,26.92,10.82,121
+201,Gentle Blush 50ml,Blush,Makeup,35.34,15.9,100
+202,Hydra Blush 75ml,Blush,Makeup,25.82,16.36,132
+203,Glow Hair Oil 30ml,Hair Oil,Hair Treatment,32.42,13.66,121
+204,Bright Lip Balm 75ml,Lip Balm,Makeup,24.65,14.02,122
+205,Nourish Shampoo 100ml,Shampoo,Shampoo,3.3,1.52,124
+206,Soothing Top Coat 75ml,Top Coat,Nail Care,14.47,6.17,105
+207,Fresh Body Wash 200ml,Body Wash,Body Care,15.3,8.56,99
+208,Balance Face Cream 30ml,Face Cream,Face Care,84.06,49.94,125
+209,Hydra Dry Shampoo 200ml,Dry Shampoo,Shampoo,30.19,18.71,118
+210,Repair Dry Shampoo 100ml,Dry Shampoo,Shampoo,13.03,5.7,109
+211,Balance Lipstick 30ml,Lipstick,Makeup,8.86,4.63,89
+212,Pure Lipstick 50ml,Lipstick,Makeup,12.49,8.01,125
+213,Silk Toner 50ml,Toner,Face Care,8.61,4.24,114
+214,Luxe Lip Balm 200ml,Lip Balm,Makeup,94.05,54.26,119
+215,Nourish Body Scrub 75ml,Body Scrub,Body Care,16.25,7.5,105
+216,Glow Dry Shampoo 250ml,Dry Shampoo,Shampoo,31.81,19.13,115
+217,Luxe Conditioner 100ml,Conditioner,Conditioner,24.84,15.84,114
+218,Repair Hand Cream 100ml,Hand Cream,Hand Care,27.82,16.31,109
+219,Fresh Toner 50ml,Toner,Face Care,8.13,5.11,118
+220,Botanical Nail File 100ml,Nail File,Nail Tools,47.93,19.8,117
+221,Calming Nail Brush 250ml,Nail Brush,Nail Tools,15.32,10.21,115
+222,Balance Face Serum 30ml,Face Serum,Face Care,54.62,23.84,115
+223,Bright Foundation 50ml,Foundation,Makeup,23.12,15.0,125
+224,Glow Hair Serum 75ml,Hair Serum,Hair Treatment,66.9,40.9,99
+225,Pure Body Wash 75ml,Body Wash,Body Care,26.58,16.8,132
+226,Repair Toner 150ml,Toner,Face Care,14.18,6.99,121
+227,Pure Face Cleanser 30ml,Face Cleanser,Face Care,50.63,20.88,101
+228,Radiant Cuticle Oil 30ml,Cuticle Oil,Nail Care,18.37,11.92,114
+229,Balance Body Wash 250ml,Body Wash,Body Care,25.29,14.44,127
+230,Calming Blush 75ml,Blush,Makeup,17.66,12.07,120
+231,Velvet Dry Shampoo 150ml,Dry Shampoo,Shampoo,10.67,4.44,115
+232,Nourish Lip Balm 30ml,Lip Balm,Makeup,14.48,7.39,138
+233,Glow Foundation 150ml,Foundation,Makeup,29.06,18.64,112
+234,Bright Hand Cream 75ml,Hand Cream,Hand Care,35.79,21.78,117
+235,Hydra Scalp Serum 50ml,Scalp Serum,Hair Treatment,3.27,1.82,105
+236,Nourish Nail File 50ml,Nail File,Nail Tools,21.25,9.66,113
+237,Pure Hair Serum 150ml,Hair Serum,Hair Treatment,15.45,8.22,98
+238,Hydra Hair Oil 200ml,Hair Oil,Hair Treatment,5.5,3.06,120
+239,Nourish Base Coat 75ml,Base Coat,Nail Care,32.66,22.24,122
+240,Fresh BB Cream 30ml,BB Cream,Face Care,69.78,43.1,138
+241,Bright Body Lotion 250ml,Body Lotion,Body Care,53.8,22.24,118
+242,Revive Mascara 100ml,Mascara,Makeup,2.54,1.56,129
+243,Bright Base Coat 30ml,Base Coat,Nail Care,21.32,14.9,133
+244,Repair Hair Serum 30ml,Hair Serum,Hair Treatment,9.78,6.83,123
+245,Revive Hair Serum 30ml,Hair Serum,Hair Treatment,11.49,6.58,137
+246,Balance Face Cream 75ml,Face Cream,Face Care,13.44,6.17,108
+247,Pure Nail Polish 100ml,Nail Polish,Nail Care,2.78,1.82,108
+248,Revive Base Coat 75ml,Base Coat,Nail Care,3.17,1.39,117
+249,Silk Body Wash 30ml,Body Wash,Body Care,17.6,9.24,128
+250,Pure Hair Mask 200ml,Hair Mask,Hair Mask,20.05,10.32,128
+251,Fresh Face Cream 150ml,Face Cream,Face Care,14.07,9.49,122
+252,Balance Shampoo 100ml,Shampoo,Shampoo,6.06,3.45,142
+253,Balance Body Scrub 75ml,Body Scrub,Body Care,11.9,7.59,116
+254,Hydra Lip Balm 75ml,Lip Balm,Makeup,52.27,33.24,110
+255,Botanical Face Cleanser 50ml,Face Cleanser,Face Care,12.3,6.45,140
+256,Silk Face Cleanser 30ml,Face Cleanser,Face Care,11.0,4.51,129
+257,Silk Face Cream 75ml,Face Cream,Face Care,44.23,29.85,108
+258,Silk Toner 50ml,Toner,Face Care,13.84,8.24,127
+259,Luxe Toner 250ml,Toner,Face Care,28.34,18.07,101
+260,Gentle Hand Cream 250ml,Hand Cream,Hand Care,23.78,13.54,109
+261,Calming Body Wash 30ml,Body Wash,Body Care,8.05,5.49,130
+262,Repair Lipstick 75ml,Lipstick,Makeup,7.44,4.86,121
+263,Pure Top Coat 100ml,Top Coat,Nail Care,5.59,3.28,127
+264,Calming Lip Balm 50ml,Lip Balm,Makeup,7.33,3.7,120
+265,Calming Nail Polish 250ml,Nail Polish,Nail Care,31.87,21.79,113
+266,Botanical Base Coat 30ml,Base Coat,Nail Care,8.52,5.39,107
+267,Clarifying Hair Oil 75ml,Hair Oil,Hair Treatment,14.73,7.2,119
+268,Repair Body Wash 150ml,Body Wash,Body Care,13.13,5.63,144
+269,Hydra Conditioner 200ml,Conditioner,Conditioner,22.28,10.36,103
+270,Clarifying Nail Polish 100ml,Nail Polish,Nail Care,5.52,3.47,121
+271,Botanical Nail Clippers 200ml,Nail Clippers,Nail Tools,39.58,16.57,123
+272,Botanical Mascara 100ml,Mascara,Makeup,51.88,33.47,107
+273,Nourish Hair Serum 200ml,Hair Serum,Hair Treatment,16.12,10.4,97
+274,Pure Body Wash 30ml,Body Wash,Body Care,2.74,1.57,104
+275,Calming Foundation 200ml,Foundation,Makeup,8.27,4.55,106
+276,Revive Lipstick 250ml,Lipstick,Makeup,21.17,13.65,142
+277,Soothing Blush 30ml,Blush,Makeup,22.15,10.38,101
+278,Fresh Mascara 75ml,Mascara,Makeup,13.38,8.38,114
+279,Pure Scalp Serum 250ml,Scalp Serum,Hair Treatment,39.67,27.17,143
+280,Bright Lip Balm 75ml,Lip Balm,Makeup,10.37,4.44,113
+281,Repair Nail Clippers 250ml,Nail Clippers,Nail Tools,36.14,24.85,105
+282,Radiant Nail Strengthener 30ml,Nail Strengthener,Nail Care,16.46,10.18,103
+283,Velvet Conditioner 150ml,Conditioner,Conditioner,10.46,6.36,128
+284,Nourish Body Lotion 100ml,Body Lotion,Body Care,29.53,12.21,128
+285,Gentle Mascara 30ml,Mascara,Makeup,15.88,10.77,133
+286,Velvet Face Serum 75ml,Face Serum,Face Care,33.45,17.49,107
+287,Bright Lip Balm 200ml,Lip Balm,Makeup,168.19,92.18,138
+288,Clarifying Mascara 250ml,Mascara,Makeup,7.79,3.68,116
+289,Nourish Foundation 50ml,Foundation,Makeup,33.27,15.04,117
+290,Bright Cuticle Oil 250ml,Cuticle Oil,Nail Care,27.4,12.04,118
+291,Radiant Face Cleanser 150ml,Face Cleanser,Face Care,68.27,32.43,106
+292,Revive Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,34.17,22.53,132
+293,Nourish Body Scrub 50ml,Body Scrub,Body Care,57.88,23.47,120
+294,Gentle Toner 200ml,Toner,Face Care,7.49,4.14,111
+295,Radiant Lip Balm 100ml,Lip Balm,Makeup,5.93,4.02,112
+296,Velvet Hair Oil 30ml,Hair Oil,Hair Treatment,7.75,3.51,130
+297,Calming Nail Strengthener 100ml,Nail Strengthener,Nail Care,14.51,7.4,102
+298,Calming Body Lotion 150ml,Body Lotion,Body Care,49.7,32.3,88
+299,Pure Blush 75ml,Blush,Makeup,59.42,38.48,114
+300,Bright Toner 200ml,Toner,Face Care,12.28,7.28,131
+301,Glow Body Scrub 150ml,Body Scrub,Body Care,15.03,8.05,133
+302,Luxe Nail Clippers 150ml,Nail Clippers,Nail Tools,6.44,3.59,100
+303,Glow Dry Shampoo 75ml,Dry Shampoo,Shampoo,17.43,9.19,102
+304,Revive Hand Cream 150ml,Hand Cream,Hand Care,14.03,8.45,120
+305,Radiant Foundation 50ml,Foundation,Makeup,14.07,6.33,123
+306,Botanical Toner 100ml,Toner,Face Care,42.29,25.96,118
+307,Pure Cuticle Oil 50ml,Cuticle Oil,Nail Care,22.73,13.17,125
+308,Glow Dry Shampoo 250ml,Dry Shampoo,Shampoo,5.78,3.4,108
+309,Balance Lip Balm 150ml,Lip Balm,Makeup,2.14,0.97,113
+310,Clarifying Conditioner 75ml,Conditioner,Conditioner,25.57,15.93,111
+311,Glow Mascara 200ml,Mascara,Makeup,19.8,11.62,138
+312,Repair Hair Serum 150ml,Hair Serum,Hair Treatment,22.25,8.92,123
+313,Botanical Cuticle Oil 30ml,Cuticle Oil,Nail Care,19.81,12.8,119
+314,Hydra Cuticle Oil 250ml,Cuticle Oil,Nail Care,6.58,2.77,131
+315,Radiant Top Coat 50ml,Top Coat,Nail Care,14.13,7.8,116
+316,Radiant Face Serum 75ml,Face Serum,Face Care,12.88,7.55,112
+317,Hydra Face Serum 75ml,Face Serum,Face Care,15.41,9.5,112
+318,Fresh Foundation 150ml,Foundation,Makeup,33.2,15.3,136
+319,Repair Body Wash 150ml,Body Wash,Body Care,10.36,6.78,126
+320,Botanical Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,6.52,3.95,135
+321,Gentle Nail File 100ml,Nail File,Nail Tools,48.04,21.87,149
+322,Velvet Nail File 200ml,Nail File,Nail Tools,9.17,3.75,92
+323,Nourish Hair Mask 75ml,Hair Mask,Hair Mask,41.34,20.55,127
+324,Bright Base Coat 50ml,Base Coat,Nail Care,91.94,38.61,137
+325,Revive Face Serum 100ml,Face Serum,Face Care,54.91,37.41,129
+326,Clarifying Nail File 250ml,Nail File,Nail Tools,27.98,14.5,119
+327,Radiant Lipstick 150ml,Lipstick,Makeup,14.03,6.53,131
+328,Clarifying Top Coat 75ml,Top Coat,Nail Care,34.14,13.88,136
+329,Luxe Body Lotion 150ml,Body Lotion,Body Care,16.15,7.13,125
+330,Pure Cuticle Oil 100ml,Cuticle Oil,Nail Care,51.03,22.86,116
+331,Clarifying Conditioner 150ml,Conditioner,Conditioner,27.41,17.97,109
+332,Calming Base Coat 30ml,Base Coat,Nail Care,22.26,10.17,126
+333,Velvet Base Coat 75ml,Base Coat,Nail Care,17.11,9.85,112
+334,Balance Hair Oil 150ml,Hair Oil,Hair Treatment,11.07,5.41,133
+335,Hydra Nail Polish 50ml,Nail Polish,Nail Care,16.41,9.59,111
+336,Silk Lip Balm 50ml,Lip Balm,Makeup,20.79,12.4,93
+337,Clarifying Foundation 200ml,Foundation,Makeup,13.39,5.58,106
+338,Velvet Body Wash 50ml,Body Wash,Body Care,20.87,10.49,122
+339,Calming Mascara 50ml,Mascara,Makeup,36.18,25.23,141
+340,Botanical Blush 50ml,Blush,Makeup,20.53,9.07,109
+341,Nourish Top Coat 30ml,Top Coat,Nail Care,10.72,5.74,125
+342,Pure Conditioner 250ml,Conditioner,Conditioner,1.81,0.99,122
+343,Velvet Conditioner 100ml,Conditioner,Conditioner,43.42,24.03,108
+344,Velvet Mascara 150ml,Mascara,Makeup,15.05,9.83,133
+345,Pure Hair Serum 30ml,Hair Serum,Hair Treatment,19.31,12.78,133
+346,Silk Hair Oil 75ml,Hair Oil,Hair Treatment,25.43,17.16,109
+347,Radiant Mascara 100ml,Mascara,Makeup,25.44,13.95,131
+348,Radiant Lipstick 250ml,Lipstick,Makeup,30.15,17.39,99
+349,Calming Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,36.86,25.0,109
+350,Nourish Lipstick 150ml,Lipstick,Makeup,30.1,21.0,113
+351,Nourish Toner 30ml,Toner,Face Care,1.36,0.83,122
+352,Bright Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,22.52,14.31,115
+353,Hydra Hair Oil 75ml,Hair Oil,Hair Treatment,20.17,13.59,133
+354,Clarifying Nail Brush 100ml,Nail Brush,Nail Tools,13.43,7.62,118
+355,Revive Top Coat 75ml,Top Coat,Nail Care,24.13,10.74,123
+356,Pure Nail Clippers 30ml,Nail Clippers,Nail Tools,16.71,7.68,106
+357,Silk Toner 250ml,Toner,Face Care,10.44,5.12,108
+358,Repair Nail Brush 200ml,Nail Brush,Nail Tools,44.23,29.34,129
+359,Balance Nail Brush 100ml,Nail Brush,Nail Tools,21.72,10.6,120
+360,Clarifying Lip Balm 50ml,Lip Balm,Makeup,18.88,13.09,130
+361,Botanical Mascara 100ml,Mascara,Makeup,3.11,2.04,116
+362,Repair Hand Cream 250ml,Hand Cream,Hand Care,90.28,61.94,114
+363,Botanical Face Cleanser 150ml,Face Cleanser,Face Care,3.7,2.03,104
+364,Botanical Conditioner 100ml,Conditioner,Conditioner,25.01,17.48,130
+365,Glow Mascara 75ml,Mascara,Makeup,29.09,17.6,133
+366,Botanical Scalp Serum 150ml,Scalp Serum,Hair Treatment,61.28,24.55,130
+367,Revive Lip Balm 75ml,Lip Balm,Makeup,7.62,4.72,121
+368,Nourish Body Wash 200ml,Body Wash,Body Care,8.61,3.7,108
+369,Balance BB Cream 30ml,BB Cream,Face Care,31.2,15.31,134
+370,Balance Blush 200ml,Blush,Makeup,27.68,17.79,109
+371,Botanical Scalp Serum 30ml,Scalp Serum,Hair Treatment,64.16,32.5,128
+372,Luxe Face Serum 150ml,Face Serum,Face Care,39.25,20.78,97
+373,Hydra Hand Cream 150ml,Hand Cream,Hand Care,12.54,6.85,115
+374,Revive Scalp Serum 50ml,Scalp Serum,Hair Treatment,15.05,6.4,120
+375,Velvet Toner 75ml,Toner,Face Care,24.99,10.73,111
+376,Radiant Hand Cream 150ml,Hand Cream,Hand Care,4.84,3.38,123
+377,Botanical Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,25.76,11.8,105
+378,Hydra Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,27.3,10.98,117
+379,Nourish Body Scrub 150ml,Body Scrub,Body Care,8.6,5.2,113
+380,Hydra Face Cleanser 30ml,Face Cleanser,Face Care,13.87,8.61,128
+381,Hydra Cuticle Oil 50ml,Cuticle Oil,Nail Care,3.37,2.1,121
+382,Bright Shampoo 75ml,Shampoo,Shampoo,34.57,19.86,102
+383,Luxe Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,22.97,11.16,138
+384,Revive Scalp Serum 250ml,Scalp Serum,Hair Treatment,5.78,3.69,110
+385,Luxe Top Coat 100ml,Top Coat,Nail Care,7.04,2.83,106
+386,Balance Mascara 100ml,Mascara,Makeup,11.62,7.87,114
+387,Repair Body Scrub 150ml,Body Scrub,Body Care,32.44,21.8,108
+388,Soothing Foundation 75ml,Foundation,Makeup,24.62,13.75,125
+389,Calming Mascara 75ml,Mascara,Makeup,8.52,5.31,110
+390,Silk Body Lotion 50ml,Body Lotion,Body Care,10.23,4.89,125
+391,Gentle Foundation 50ml,Foundation,Makeup,17.15,9.02,101
+392,Calming Body Wash 250ml,Body Wash,Body Care,8.67,4.03,117
+393,Fresh Lipstick 30ml,Lipstick,Makeup,10.84,5.77,113
+394,Fresh Toner 150ml,Toner,Face Care,28.6,14.88,110
+395,Repair Hair Oil 150ml,Hair Oil,Hair Treatment,6.16,2.69,111
+396,Pure Blush 30ml,Blush,Makeup,14.67,6.0,104
+397,Glow Face Cream 75ml,Face Cream,Face Care,13.83,7.47,126
+398,Calming Mascara 100ml,Mascara,Makeup,15.89,8.14,120
+399,Glow Nail Strengthener 30ml,Nail Strengthener,Nail Care,20.32,10.43,128
+400,Clarifying Hand Cream 30ml,Hand Cream,Hand Care,26.89,14.92,122
+401,Botanical Nail Brush 200ml,Nail Brush,Nail Tools,30.8,19.25,118
+402,Botanical BB Cream 150ml,BB Cream,Face Care,12.49,5.96,131
+403,Soothing Lip Balm 75ml,Lip Balm,Makeup,14.57,9.69,118
+404,Bright Lip Balm 150ml,Lip Balm,Makeup,21.78,9.64,132
+405,Repair Hair Mask 150ml,Hair Mask,Hair Mask,18.99,12.3,112
+406,Repair Mascara 30ml,Mascara,Makeup,25.96,13.76,122
+407,Luxe Top Coat 75ml,Top Coat,Nail Care,23.56,16.3,109
+408,Pure Face Serum 150ml,Face Serum,Face Care,8.51,5.79,115
+409,Balance Nail Polish 250ml,Nail Polish,Nail Care,73.67,36.16,111
+410,Silk Hair Mask 100ml,Hair Mask,Hair Mask,16.49,7.44,134
+411,Nourish Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,28.78,13.41,131
+412,Soothing Lip Balm 100ml,Lip Balm,Makeup,26.8,16.22,120
+413,Radiant Hand Cream 150ml,Hand Cream,Hand Care,20.44,11.76,115
+414,Pure Face Serum 200ml,Face Serum,Face Care,20.28,8.15,120
+415,Clarifying Shampoo 30ml,Shampoo,Shampoo,34.53,17.2,115
+416,Glow Shampoo 200ml,Shampoo,Shampoo,13.92,8.95,108
+417,Calming Toner 200ml,Toner,Face Care,30.58,16.53,124
+418,Luxe Scalp Serum 75ml,Scalp Serum,Hair Treatment,24.58,16.0,122
+419,Fresh Shampoo 250ml,Shampoo,Shampoo,42.12,25.47,105
+420,Clarifying Nail Strengthener 250ml,Nail Strengthener,Nail Care,11.05,4.49,106
+421,Fresh Face Serum 75ml,Face Serum,Face Care,17.59,9.11,127
+422,Velvet Nail Strengthener 250ml,Nail Strengthener,Nail Care,8.3,5.47,113
+423,Revive Body Lotion 75ml,Body Lotion,Body Care,39.96,19.94,117
+424,Nourish Lip Balm 200ml,Lip Balm,Makeup,9.1,4.75,118
+425,Nourish Lipstick 50ml,Lipstick,Makeup,21.45,10.56,119
+426,Repair Nail Brush 100ml,Nail Brush,Nail Tools,11.44,5.82,126
+427,Radiant Hand Cream 50ml,Hand Cream,Hand Care,40.97,22.1,127
+428,Fresh Nail Strengthener 50ml,Nail Strengthener,Nail Care,15.69,10.76,118
+429,Luxe Hand Cream 75ml,Hand Cream,Hand Care,27.69,17.52,134
+430,Clarifying Foundation 50ml,Foundation,Makeup,6.91,3.22,127
+431,Fresh Lip Balm 150ml,Lip Balm,Makeup,9.92,4.47,122
+432,Clarifying Body Wash 50ml,Body Wash,Body Care,26.73,14.76,125
+433,Silk Body Scrub 30ml,Body Scrub,Body Care,46.19,25.2,125
+434,Bright Shampoo 200ml,Shampoo,Shampoo,25.05,14.6,102
+435,Pure Foundation 75ml,Foundation,Makeup,110.65,72.54,134
+436,Nourish Hair Serum 75ml,Hair Serum,Hair Treatment,30.98,12.78,119
+437,Clarifying Hair Serum 75ml,Hair Serum,Hair Treatment,16.66,7.3,121
+438,Luxe Face Cleanser 50ml,Face Cleanser,Face Care,12.72,6.9,95
+439,Velvet Body Scrub 250ml,Body Scrub,Body Care,70.36,45.56,101
+440,Calming Hand Cream 100ml,Hand Cream,Hand Care,31.37,20.86,108
+441,Luxe Shampoo 200ml,Shampoo,Shampoo,10.89,6.44,118
+442,Fresh Top Coat 50ml,Top Coat,Nail Care,9.71,4.59,114
+443,Balance Hand Cream 100ml,Hand Cream,Hand Care,9.67,6.5,119
+444,Radiant Nail Polish 50ml,Nail Polish,Nail Care,24.75,14.84,108
+445,Bright Scalp Serum 75ml,Scalp Serum,Hair Treatment,4.88,2.38,130
+446,Glow Conditioner 75ml,Conditioner,Conditioner,10.93,5.29,105
+447,Repair Face Serum 100ml,Face Serum,Face Care,20.86,12.32,119
+448,Pure Base Coat 75ml,Base Coat,Nail Care,16.81,7.13,99
+449,Soothing Face Cleanser 250ml,Face Cleanser,Face Care,11.43,6.59,113
+450,Nourish Hair Oil 250ml,Hair Oil,Hair Treatment,28.67,16.55,119
+451,Silk Cuticle Oil 200ml,Cuticle Oil,Nail Care,28.55,13.68,106
+452,Glow Hair Mask 30ml,Hair Mask,Hair Mask,13.83,7.44,122
+453,Gentle Conditioner 150ml,Conditioner,Conditioner,10.75,6.68,133
+454,Luxe Shampoo 30ml,Shampoo,Shampoo,32.84,17.7,127
+455,Botanical Foundation 150ml,Foundation,Makeup,14.48,9.57,121
+456,Balance Hair Oil 50ml,Hair Oil,Hair Treatment,16.63,9.35,125
+457,Fresh Face Serum 30ml,Face Serum,Face Care,30.76,12.86,100
+458,Bright Mascara 75ml,Mascara,Makeup,6.82,4.48,129
+459,Calming Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,10.86,7.04,112
+460,Velvet Body Wash 75ml,Body Wash,Body Care,13.35,8.28,97
+461,Repair Foundation 50ml,Foundation,Makeup,75.62,50.63,128
+462,Soothing Body Wash 30ml,Body Wash,Body Care,6.04,3.71,124
+463,Calming Dry Shampoo 250ml,Dry Shampoo,Shampoo,16.98,11.51,105
+464,Luxe Hair Oil 30ml,Hair Oil,Hair Treatment,8.09,5.31,120
+465,Nourish Nail Polish 250ml,Nail Polish,Nail Care,104.31,55.62,124
+466,Repair Nail File 100ml,Nail File,Nail Tools,20.36,9.58,114
+467,Luxe Hair Oil 30ml,Hair Oil,Hair Treatment,7.67,4.53,111
+468,Clarifying Lip Balm 30ml,Lip Balm,Makeup,4.41,3.0,138
+469,Hydra Top Coat 250ml,Top Coat,Nail Care,26.83,13.2,117
+470,Radiant Hair Mask 50ml,Hair Mask,Hair Mask,19.19,8.9,106
+471,Soothing Face Serum 75ml,Face Serum,Face Care,27.35,15.35,130
+472,Soothing Body Lotion 200ml,Body Lotion,Body Care,7.35,4.95,111
+473,Nourish Face Cleanser 30ml,Face Cleanser,Face Care,73.3,31.79,140
+474,Radiant Nail File 100ml,Nail File,Nail Tools,17.56,11.62,101
+475,Hydra Nail File 50ml,Nail File,Nail Tools,23.09,12.12,120
+476,Balance Face Cleanser 50ml,Face Cleanser,Face Care,27.09,17.31,117
+477,Revive Conditioner 75ml,Conditioner,Conditioner,17.85,10.6,121
+478,Glow Nail Strengthener 30ml,Nail Strengthener,Nail Care,46.73,19.57,148
+479,Hydra Shampoo 250ml,Shampoo,Shampoo,10.76,6.3,108
+480,Radiant Nail Clippers 250ml,Nail Clippers,Nail Tools,37.26,17.73,137
+481,Soothing Mascara 250ml,Mascara,Makeup,47.78,27.1,135
+482,Gentle Hair Serum 30ml,Hair Serum,Hair Treatment,37.69,22.52,124
+483,Soothing Body Lotion 50ml,Body Lotion,Body Care,51.8,31.5,123
+484,Hydra Hair Mask 75ml,Hair Mask,Hair Mask,9.17,4.34,124
+485,Botanical Nail Brush 250ml,Nail Brush,Nail Tools,24.47,13.49,112
+486,Silk Nail Clippers 30ml,Nail Clippers,Nail Tools,22.96,14.93,118
+487,Botanical Hand Cream 50ml,Hand Cream,Hand Care,17.46,7.04,104
+488,Glow Hair Mask 75ml,Hair Mask,Hair Mask,27.15,18.21,106
+489,Soothing Lipstick 100ml,Lipstick,Makeup,43.19,22.41,117
+490,Soothing Nail Polish 250ml,Nail Polish,Nail Care,9.23,3.76,124
+491,Balance Dry Shampoo 200ml,Dry Shampoo,Shampoo,6.26,3.95,130
+492,Gentle Cuticle Oil 30ml,Cuticle Oil,Nail Care,13.96,9.73,125
+493,Gentle Top Coat 250ml,Top Coat,Nail Care,2.25,1.08,119
+494,Glow Lip Balm 150ml,Lip Balm,Makeup,15.56,7.97,128
+495,Soothing Hand Cream 50ml,Hand Cream,Hand Care,51.61,31.05,126
+496,Botanical Nail Brush 30ml,Nail Brush,Nail Tools,5.27,3.48,112
+497,Radiant Base Coat 200ml,Base Coat,Nail Care,11.77,7.73,110
+498,Pure Nail Polish 200ml,Nail Polish,Nail Care,6.62,2.88,129
+499,Clarifying Body Wash 150ml,Body Wash,Body Care,22.59,9.22,95
+500,Glow Top Coat 75ml,Top Coat,Nail Care,27.37,13.53,121
+501,Clarifying Base Coat 150ml,Base Coat,Nail Care,16.73,10.18,130
+502,Botanical Hair Serum 75ml,Hair Serum,Hair Treatment,9.51,6.01,105
+503,Luxe Hand Cream 200ml,Hand Cream,Hand Care,19.15,8.27,107
+504,Pure Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,44.25,26.33,128
+505,Glow Top Coat 75ml,Top Coat,Nail Care,33.51,22.71,120
+506,Hydra Lipstick 100ml,Lipstick,Makeup,11.88,5.44,121
+507,Calming Nail Polish 100ml,Nail Polish,Nail Care,12.69,6.85,122
+508,Luxe Dry Shampoo 200ml,Dry Shampoo,Shampoo,12.41,8.47,138
+509,Clarifying Body Lotion 30ml,Body Lotion,Body Care,24.35,10.41,124
+510,Fresh Scalp Serum 250ml,Scalp Serum,Hair Treatment,5.44,3.67,106
+511,Calming Dry Shampoo 30ml,Dry Shampoo,Shampoo,25.38,10.79,115
+512,Velvet Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,10.66,4.82,117
+513,Gentle Dry Shampoo 30ml,Dry Shampoo,Shampoo,13.3,7.36,116
+514,Clarifying Face Cleanser 100ml,Face Cleanser,Face Care,9.17,6.11,129
+515,Gentle Shampoo 75ml,Shampoo,Shampoo,29.52,19.86,126
+516,Botanical Face Cream 250ml,Face Cream,Face Care,10.24,5.76,134
+517,Gentle Base Coat 30ml,Base Coat,Nail Care,7.63,4.31,128
+518,Fresh Foundation 30ml,Foundation,Makeup,10.35,4.61,124
+519,Bright Cuticle Oil 100ml,Cuticle Oil,Nail Care,6.92,3.23,121
+520,Balance Toner 30ml,Toner,Face Care,32.76,22.42,139
+521,Pure Top Coat 100ml,Top Coat,Nail Care,6.81,3.35,107
+522,Revive Face Serum 150ml,Face Serum,Face Care,15.89,7.77,115
+523,Pure Mascara 250ml,Mascara,Makeup,9.77,6.4,120
+524,Glow Nail Brush 75ml,Nail Brush,Nail Tools,57.68,30.37,128
+525,Glow Body Scrub 250ml,Body Scrub,Body Care,23.07,16.09,120
+526,Soothing Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,9.94,3.98,125
+527,Balance Nail Strengthener 250ml,Nail Strengthener,Nail Care,18.86,8.16,106
+528,Calming Toner 50ml,Toner,Face Care,7.94,4.59,125
+529,Repair BB Cream 100ml,BB Cream,Face Care,28.14,11.29,129
+530,Pure Base Coat 150ml,Base Coat,Nail Care,18.81,11.47,131
+531,Nourish Dry Shampoo 50ml,Dry Shampoo,Shampoo,22.99,13.88,121
+532,Bright Toner 75ml,Toner,Face Care,7.67,5.18,119
+533,Luxe Body Lotion 150ml,Body Lotion,Body Care,5.44,2.83,120
+534,Hydra Face Cleanser 100ml,Face Cleanser,Face Care,4.35,2.19,98
+535,Bright Shampoo 30ml,Shampoo,Shampoo,4.62,2.96,115
+536,Radiant Body Lotion 75ml,Body Lotion,Body Care,16.59,11.5,129
+537,Velvet Hair Mask 50ml,Hair Mask,Hair Mask,76.51,40.06,117
+538,Revive Top Coat 30ml,Top Coat,Nail Care,11.95,5.85,117
+539,Clarifying Hair Serum 50ml,Hair Serum,Hair Treatment,10.35,7.15,125
+540,Silk Lip Balm 200ml,Lip Balm,Makeup,15.75,9.09,130
+541,Revive BB Cream 50ml,BB Cream,Face Care,8.77,5.39,117
+542,Fresh BB Cream 150ml,BB Cream,Face Care,5.9,3.51,136
+543,Balance Scalp Serum 75ml,Scalp Serum,Hair Treatment,9.74,5.43,106
+544,Luxe Face Cleanser 100ml,Face Cleanser,Face Care,13.71,7.32,124
+545,Soothing Scalp Serum 30ml,Scalp Serum,Hair Treatment,72.79,49.64,136
+546,Calming Cuticle Oil 250ml,Cuticle Oil,Nail Care,11.12,5.98,128
+547,Silk Scalp Serum 200ml,Scalp Serum,Hair Treatment,19.22,8.6,116
+548,Balance Cuticle Oil 150ml,Cuticle Oil,Nail Care,5.49,2.44,121
+549,Gentle Face Cleanser 100ml,Face Cleanser,Face Care,28.65,17.37,116
+550,Botanical Face Cleanser 30ml,Face Cleanser,Face Care,9.1,5.81,110
+551,Repair Blush 100ml,Blush,Makeup,6.66,2.89,113
+552,Velvet Body Scrub 250ml,Body Scrub,Body Care,7.22,3.42,137
+553,Repair Lipstick 30ml,Lipstick,Makeup,9.84,5.44,139
+554,Glow Body Lotion 200ml,Body Lotion,Body Care,6.52,4.31,146
+555,Botanical Foundation 200ml,Foundation,Makeup,20.76,10.65,139
+556,Velvet Nail Brush 75ml,Nail Brush,Nail Tools,6.91,3.3,109
+557,Calming Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,27.57,13.27,116
+558,Soothing Hair Serum 150ml,Hair Serum,Hair Treatment,10.95,6.05,116
+559,Botanical Body Wash 150ml,Body Wash,Body Care,7.9,4.28,137
+560,Hydra Scalp Serum 150ml,Scalp Serum,Hair Treatment,9.52,4.37,137
+561,Silk Cuticle Oil 50ml,Cuticle Oil,Nail Care,7.3,3.32,120
+562,Repair Nail File 250ml,Nail File,Nail Tools,16.73,8.03,118
+563,Calming Body Scrub 100ml,Body Scrub,Body Care,10.63,5.21,115
+564,Radiant Hair Serum 50ml,Hair Serum,Hair Treatment,40.01,23.86,106
+565,Glow Conditioner 30ml,Conditioner,Conditioner,2.6,1.09,123
+566,Hydra Body Wash 100ml,Body Wash,Body Care,41.87,24.69,122
+567,Botanical Nail Strengthener 100ml,Nail Strengthener,Nail Care,9.6,4.73,108
+568,Repair Dry Shampoo 50ml,Dry Shampoo,Shampoo,59.16,39.99,151
+569,Balance Body Scrub 50ml,Body Scrub,Body Care,18.11,8.68,146
+570,Hydra Hair Serum 150ml,Hair Serum,Hair Treatment,42.94,18.09,108
+571,Luxe Base Coat 75ml,Base Coat,Nail Care,15.47,9.11,108
+572,Calming Toner 250ml,Toner,Face Care,14.73,7.17,114
+573,Soothing Scalp Serum 100ml,Scalp Serum,Hair Treatment,7.7,3.15,132
+574,Silk Lip Balm 150ml,Lip Balm,Makeup,15.28,9.84,115
+575,Silk Shampoo 75ml,Shampoo,Shampoo,7.39,3.74,121
+576,Radiant Lipstick 150ml,Lipstick,Makeup,19.1,7.67,134
+577,Pure Shampoo 30ml,Shampoo,Shampoo,18.71,11.34,118
+578,Botanical Mascara 100ml,Mascara,Makeup,14.91,9.44,127
+579,Soothing Hair Mask 200ml,Hair Mask,Hair Mask,44.24,22.33,126
+580,Repair Face Serum 200ml,Face Serum,Face Care,24.49,12.99,101
+581,Bright Scalp Serum 200ml,Scalp Serum,Hair Treatment,7.88,3.75,112
+582,Fresh Body Wash 100ml,Body Wash,Body Care,25.91,15.77,121
+583,Nourish Hair Mask 150ml,Hair Mask,Hair Mask,35.22,14.82,135
+584,Silk Dry Shampoo 50ml,Dry Shampoo,Shampoo,2.42,1.32,117
+585,Glow Face Cleanser 150ml,Face Cleanser,Face Care,6.91,4.52,104
+586,Fresh Top Coat 50ml,Top Coat,Nail Care,11.3,5.0,105
+587,Soothing Lipstick 250ml,Lipstick,Makeup,8.58,3.99,124
+588,Luxe Nail Polish 75ml,Nail Polish,Nail Care,27.4,18.05,126
+589,Pure Lip Balm 250ml,Lip Balm,Makeup,8.09,4.15,133
+590,Pure Hand Cream 100ml,Hand Cream,Hand Care,7.42,5.18,115
+591,Balance Nail Brush 30ml,Nail Brush,Nail Tools,19.91,12.1,123
+592,Velvet Nail File 30ml,Nail File,Nail Tools,13.67,6.78,118
+593,Radiant Nail File 100ml,Nail File,Nail Tools,40.37,20.49,101
+594,Balance Conditioner 100ml,Conditioner,Conditioner,22.13,10.72,99
+595,Radiant Hair Oil 50ml,Hair Oil,Hair Treatment,250.18,125.68,116
+596,Hydra Shampoo 75ml,Shampoo,Shampoo,6.87,3.99,110
+597,Radiant Body Wash 250ml,Body Wash,Body Care,4.84,3.35,136
+598,Velvet Nail Clippers 250ml,Nail Clippers,Nail Tools,49.43,30.59,113
+599,Glow Nail Polish 250ml,Nail Polish,Nail Care,191.21,112.45,140
+600,Hydra Body Lotion 200ml,Body Lotion,Body Care,13.75,7.3,105
+601,Pure Body Wash 150ml,Body Wash,Body Care,12.75,5.17,121
+602,Soothing Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,18.21,10.08,103
+603,Hydra Shampoo 75ml,Shampoo,Shampoo,8.31,5.19,120
+604,Botanical Nail Brush 100ml,Nail Brush,Nail Tools,3.47,1.79,120
+605,Clarifying Face Serum 75ml,Face Serum,Face Care,19.97,13.12,112
+606,Calming Mascara 150ml,Mascara,Makeup,16.57,8.43,118
+607,Calming BB Cream 75ml,BB Cream,Face Care,5.44,2.34,109
+608,Clarifying Nail Polish 250ml,Nail Polish,Nail Care,10.04,5.52,140
+609,Silk Body Lotion 50ml,Body Lotion,Body Care,5.34,2.74,113
+610,Repair Hair Mask 75ml,Hair Mask,Hair Mask,22.14,11.4,123
+611,Soothing Hair Mask 250ml,Hair Mask,Hair Mask,16.09,9.86,121
+612,Calming Cuticle Oil 100ml,Cuticle Oil,Nail Care,18.72,7.91,116
+613,Hydra Body Wash 75ml,Body Wash,Body Care,24.93,17.23,107
+614,Gentle Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,39.53,26.02,125
+615,Hydra Scalp Serum 200ml,Scalp Serum,Hair Treatment,18.96,11.32,124
+616,Revive BB Cream 75ml,BB Cream,Face Care,26.9,17.93,138
+617,Nourish Foundation 200ml,Foundation,Makeup,70.47,46.57,109
+618,Calming Face Cream 30ml,Face Cream,Face Care,35.63,22.92,121
+619,Velvet Lip Balm 30ml,Lip Balm,Makeup,19.58,11.3,111
+620,Radiant Body Lotion 30ml,Body Lotion,Body Care,18.64,9.8,137
+621,Glow Face Cream 250ml,Face Cream,Face Care,8.47,3.91,135
+622,Botanical Hand Cream 150ml,Hand Cream,Hand Care,9.8,4.61,123
+623,Gentle Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,15.2,6.82,114
+624,Revive Lipstick 150ml,Lipstick,Makeup,12.39,6.6,115
+625,Luxe Face Serum 200ml,Face Serum,Face Care,74.32,47.01,137
+626,Silk Hair Serum 200ml,Hair Serum,Hair Treatment,22.16,14.07,112
+627,Revive Lipstick 200ml,Lipstick,Makeup,20.75,14.34,124
+628,Calming Body Lotion 75ml,Body Lotion,Body Care,42.04,27.64,117
+629,Nourish Body Scrub 100ml,Body Scrub,Body Care,19.04,8.96,126
+630,Calming Nail Polish 50ml,Nail Polish,Nail Care,13.19,8.95,138
+631,Repair Hair Oil 150ml,Hair Oil,Hair Treatment,20.22,9.04,121
+632,Pure Hair Oil 250ml,Hair Oil,Hair Treatment,22.76,11.26,120
+633,Botanical Nail Clippers 100ml,Nail Clippers,Nail Tools,50.41,26.69,116
+634,Calming Conditioner 250ml,Conditioner,Conditioner,5.55,3.53,105
+635,Revive Blush 50ml,Blush,Makeup,9.1,4.04,113
+636,Radiant Body Scrub 75ml,Body Scrub,Body Care,15.51,7.39,126
+637,Silk Hair Oil 75ml,Hair Oil,Hair Treatment,34.81,19.13,111
+638,Radiant Base Coat 50ml,Base Coat,Nail Care,30.87,18.14,110
+639,Clarifying Foundation 200ml,Foundation,Makeup,17.93,7.24,115
+640,Silk Cuticle Oil 30ml,Cuticle Oil,Nail Care,37.17,18.96,139
+641,Clarifying Conditioner 150ml,Conditioner,Conditioner,9.59,4.7,119
+642,Glow Body Wash 50ml,Body Wash,Body Care,74.19,41.59,122
+643,Bright Toner 50ml,Toner,Face Care,8.43,4.39,131
+644,Pure Lip Balm 250ml,Lip Balm,Makeup,4.17,1.89,119
+645,Fresh Face Cream 100ml,Face Cream,Face Care,26.69,11.89,117
+646,Velvet Dry Shampoo 100ml,Dry Shampoo,Shampoo,5.22,2.56,128
+647,Soothing Hair Oil 200ml,Hair Oil,Hair Treatment,10.95,4.39,121
+648,Nourish Toner 30ml,Toner,Face Care,14.67,8.74,123
+649,Gentle Body Lotion 250ml,Body Lotion,Body Care,22.92,10.5,117
+650,Gentle Mascara 75ml,Mascara,Makeup,36.98,16.43,132
+651,Bright Face Cleanser 100ml,Face Cleanser,Face Care,5.59,3.89,126
+652,Balance Nail Strengthener 75ml,Nail Strengthener,Nail Care,6.68,2.75,120
+653,Revive Conditioner 50ml,Conditioner,Conditioner,252.35,110.13,117
+654,Bright Nail Clippers 200ml,Nail Clippers,Nail Tools,13.89,6.58,123
+655,Gentle Hair Mask 200ml,Hair Mask,Hair Mask,4.42,2.37,121
+656,Nourish Nail File 150ml,Nail File,Nail Tools,7.34,4.75,122
+657,Revive Mascara 150ml,Mascara,Makeup,10.78,5.22,118
+658,Pure Nail Strengthener 250ml,Nail Strengthener,Nail Care,16.51,11.25,143
+659,Luxe Hair Oil 200ml,Hair Oil,Hair Treatment,42.69,19.98,115
+660,Pure Toner 150ml,Toner,Face Care,60.77,28.46,134
+661,Gentle Blush 200ml,Blush,Makeup,8.5,5.39,139
+662,Gentle Dry Shampoo 50ml,Dry Shampoo,Shampoo,10.44,5.45,111
+663,Fresh Shampoo 150ml,Shampoo,Shampoo,18.52,10.21,123
+664,Fresh Top Coat 150ml,Top Coat,Nail Care,9.2,3.78,119
+665,Hydra Toner 100ml,Toner,Face Care,42.7,22.38,102
+666,Luxe Hair Mask 50ml,Hair Mask,Hair Mask,118.32,66.46,129
+667,Fresh Face Serum 50ml,Face Serum,Face Care,16.73,8.46,125
+668,Hydra Face Serum 30ml,Face Serum,Face Care,21.39,12.79,122
+669,Velvet Hair Serum 30ml,Hair Serum,Hair Treatment,10.29,5.83,104
+670,Radiant Toner 100ml,Toner,Face Care,21.51,13.34,112
+671,Pure Scalp Serum 100ml,Scalp Serum,Hair Treatment,7.04,4.5,110
+672,Gentle Scalp Serum 250ml,Scalp Serum,Hair Treatment,7.7,4.68,115
+673,Nourish Hair Oil 30ml,Hair Oil,Hair Treatment,3.84,1.87,104
+674,Pure Body Lotion 200ml,Body Lotion,Body Care,31.59,15.0,108
+675,Calming Leave-in Treatment 75ml,Leave-in Treatment,Hair Treatment,49.95,28.6,104
+676,Hydra Nail File 75ml,Nail File,Nail Tools,37.51,24.94,105
+677,Hydra Hair Mask 200ml,Hair Mask,Hair Mask,17.73,8.84,125
+678,Botanical BB Cream 150ml,BB Cream,Face Care,12.8,7.69,132
+679,Radiant Lipstick 30ml,Lipstick,Makeup,15.27,9.57,130
+680,Balance Face Cream 30ml,Face Cream,Face Care,7.28,4.33,128
+681,Hydra BB Cream 250ml,BB Cream,Face Care,34.91,17.39,125
+682,Botanical Cuticle Oil 250ml,Cuticle Oil,Nail Care,38.04,24.74,146
+683,Soothing Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,7.03,4.66,127
+684,Silk Nail Polish 50ml,Nail Polish,Nail Care,7.79,5.41,119
+685,Calming Body Lotion 50ml,Body Lotion,Body Care,5.69,2.53,106
+686,Revive Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,13.41,6.63,123
+687,Balance Hair Serum 150ml,Hair Serum,Hair Treatment,16.16,9.94,114
+688,Luxe BB Cream 100ml,BB Cream,Face Care,17.34,8.35,124
+689,Velvet Blush 200ml,Blush,Makeup,5.66,3.04,130
+690,Soothing Top Coat 150ml,Top Coat,Nail Care,9.16,4.79,127
+691,Revive Scalp Serum 50ml,Scalp Serum,Hair Treatment,9.17,5.29,104
+692,Repair Nail File 250ml,Nail File,Nail Tools,29.51,13.43,108
+693,Botanical Foundation 150ml,Foundation,Makeup,7.41,4.28,116
+694,Balance Body Lotion 150ml,Body Lotion,Body Care,17.18,9.02,132
+695,Luxe Cuticle Oil 100ml,Cuticle Oil,Nail Care,9.33,5.28,112
+696,Calming Hair Serum 250ml,Hair Serum,Hair Treatment,14.11,8.02,114
+697,Luxe Conditioner 100ml,Conditioner,Conditioner,35.04,21.38,120
+698,Balance Nail Clippers 75ml,Nail Clippers,Nail Tools,6.1,3.28,101
+699,Gentle Dry Shampoo 150ml,Dry Shampoo,Shampoo,2.04,1.37,108
+700,Pure Conditioner 250ml,Conditioner,Conditioner,5.64,3.06,108
+701,Radiant Body Scrub 250ml,Body Scrub,Body Care,22.96,11.59,106
+702,Balance Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,6.31,2.86,130
+703,Calming Top Coat 30ml,Top Coat,Nail Care,9.3,5.44,128
+704,Silk Nail Polish 50ml,Nail Polish,Nail Care,23.64,15.59,111
+705,Luxe Nail File 250ml,Nail File,Nail Tools,31.28,20.47,118
+706,Balance Hair Serum 100ml,Hair Serum,Hair Treatment,37.57,18.95,123
+707,Clarifying Body Lotion 150ml,Body Lotion,Body Care,25.62,14.65,120
+708,Silk Hair Serum 75ml,Hair Serum,Hair Treatment,6.68,4.24,101
+709,Clarifying Hair Oil 200ml,Hair Oil,Hair Treatment,59.44,38.46,120
+710,Luxe Foundation 200ml,Foundation,Makeup,7.73,5.13,127
+711,Clarifying Scalp Serum 250ml,Scalp Serum,Hair Treatment,9.89,4.74,111
+712,Luxe Face Serum 75ml,Face Serum,Face Care,16.37,7.3,133
+713,Clarifying Shampoo 50ml,Shampoo,Shampoo,20.55,12.62,115
+714,Gentle Toner 100ml,Toner,Face Care,51.98,33.56,125
+715,Balance Lipstick 250ml,Lipstick,Makeup,9.91,4.15,124
+716,Bright BB Cream 50ml,BB Cream,Face Care,22.29,11.76,127
+717,Soothing Lipstick 200ml,Lipstick,Makeup,9.96,4.26,128
+718,Pure Hair Mask 75ml,Hair Mask,Hair Mask,59.5,32.73,120
+719,Hydra Nail Polish 100ml,Nail Polish,Nail Care,23.14,13.84,116
+720,Fresh Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,46.13,24.43,129
+721,Soothing Face Serum 200ml,Face Serum,Face Care,6.54,3.38,110
+722,Luxe Nail File 100ml,Nail File,Nail Tools,10.5,5.36,121
+723,Revive Nail Strengthener 150ml,Nail Strengthener,Nail Care,20.06,10.24,120
+724,Glow Hair Oil 250ml,Hair Oil,Hair Treatment,46.72,24.64,142
+725,Pure Lipstick 150ml,Lipstick,Makeup,36.37,16.09,133
+726,Calming Blush 200ml,Blush,Makeup,54.62,26.56,119
+727,Luxe Shampoo 150ml,Shampoo,Shampoo,48.09,33.22,138
+728,Balance Face Serum 250ml,Face Serum,Face Care,30.66,16.37,128
+729,Botanical Hair Serum 50ml,Hair Serum,Hair Treatment,18.59,7.98,122
+730,Soothing Nail File 75ml,Nail File,Nail Tools,6.74,3.93,126
+731,Clarifying Mascara 75ml,Mascara,Makeup,2.96,1.54,126
+732,Repair BB Cream 75ml,BB Cream,Face Care,18.16,11.95,125
+733,Soothing Conditioner 100ml,Conditioner,Conditioner,31.25,17.03,138
+734,Fresh Nail Clippers 30ml,Nail Clippers,Nail Tools,1.86,1.24,129
+735,Fresh Blush 75ml,Blush,Makeup,6.43,3.73,121
+736,Radiant Foundation 30ml,Foundation,Makeup,7.29,3.49,129
+737,Gentle Base Coat 100ml,Base Coat,Nail Care,14.15,9.67,119
+738,Nourish Hand Cream 75ml,Hand Cream,Hand Care,17.86,10.07,126
+739,Glow Nail Strengthener 100ml,Nail Strengthener,Nail Care,39.06,20.95,135
+740,Nourish Nail Strengthener 150ml,Nail Strengthener,Nail Care,5.74,3.26,127
+741,Balance Top Coat 30ml,Top Coat,Nail Care,21.66,10.72,127
+742,Revive Face Serum 30ml,Face Serum,Face Care,5.42,3.61,114
+743,Gentle Scalp Serum 250ml,Scalp Serum,Hair Treatment,32.09,13.16,110
+744,Hydra Mascara 50ml,Mascara,Makeup,11.19,6.16,136
+745,Botanical Hand Cream 100ml,Hand Cream,Hand Care,6.24,2.56,125
+746,Bright Dry Shampoo 200ml,Dry Shampoo,Shampoo,9.6,3.94,111
+747,Balance Hair Mask 100ml,Hair Mask,Hair Mask,6.74,4.21,131
+748,Botanical Nail Brush 30ml,Nail Brush,Nail Tools,17.7,11.69,99
+749,Clarifying Top Coat 30ml,Top Coat,Nail Care,27.09,16.76,121
+750,Nourish Nail Brush 75ml,Nail Brush,Nail Tools,37.52,16.62,126
+751,Fresh Toner 75ml,Toner,Face Care,10.86,5.37,121
+752,Soothing Hair Mask 75ml,Hair Mask,Hair Mask,49.92,22.64,108
+753,Bright Mascara 150ml,Mascara,Makeup,16.13,6.66,132
+754,Pure Nail Brush 200ml,Nail Brush,Nail Tools,45.25,27.83,106
+755,Botanical Foundation 75ml,Foundation,Makeup,14.5,7.82,108
+756,Fresh Base Coat 50ml,Base Coat,Nail Care,13.67,6.85,113
+757,Repair Nail Polish 200ml,Nail Polish,Nail Care,26.12,11.68,124
+758,Soothing Hand Cream 200ml,Hand Cream,Hand Care,21.04,8.6,138
+759,Silk Nail Clippers 30ml,Nail Clippers,Nail Tools,10.56,4.46,117
+760,Botanical Nail Polish 30ml,Nail Polish,Nail Care,41.44,17.67,120
+761,Velvet Lipstick 30ml,Lipstick,Makeup,7.65,4.89,108
+762,Botanical Scalp Serum 250ml,Scalp Serum,Hair Treatment,26.12,13.55,135
+763,Hydra Dry Shampoo 75ml,Dry Shampoo,Shampoo,25.22,11.59,134
+764,Calming Face Serum 200ml,Face Serum,Face Care,38.54,26.75,126
+765,Clarifying Body Lotion 150ml,Body Lotion,Body Care,39.15,16.18,112
+766,Velvet Mascara 30ml,Mascara,Makeup,14.22,7.36,108
+767,Pure Blush 50ml,Blush,Makeup,16.88,7.25,102
+768,Velvet Lip Balm 150ml,Lip Balm,Makeup,16.0,9.96,124
+769,Pure Face Cleanser 100ml,Face Cleanser,Face Care,66.45,31.93,126
+770,Botanical Nail Brush 75ml,Nail Brush,Nail Tools,27.68,14.85,102
+771,Velvet Face Serum 100ml,Face Serum,Face Care,37.9,25.25,121
+772,Velvet Hair Mask 30ml,Hair Mask,Hair Mask,13.45,6.71,134
+773,Fresh Hair Mask 250ml,Hair Mask,Hair Mask,6.68,3.71,102
+774,Soothing Nail Clippers 200ml,Nail Clippers,Nail Tools,7.78,4.5,121
+775,Glow Nail Strengthener 200ml,Nail Strengthener,Nail Care,36.97,17.97,126
+776,Fresh Face Serum 100ml,Face Serum,Face Care,9.16,4.88,111
+777,Repair Body Scrub 100ml,Body Scrub,Body Care,211.9,126.11,93
+778,Fresh Lip Balm 150ml,Lip Balm,Makeup,11.89,8.22,127
+779,Radiant Lip Balm 200ml,Lip Balm,Makeup,21.78,13.48,125
+780,Bright Lipstick 250ml,Lipstick,Makeup,21.75,9.18,91
+781,Soothing Body Lotion 100ml,Body Lotion,Body Care,18.98,12.88,126
+782,Glow Lipstick 200ml,Lipstick,Makeup,6.2,2.53,120
+783,Balance Lipstick 50ml,Lipstick,Makeup,20.05,10.79,129
+784,Repair Dry Shampoo 50ml,Dry Shampoo,Shampoo,19.91,8.58,142
+785,Repair Toner 150ml,Toner,Face Care,12.94,6.89,102
+786,Repair Face Serum 30ml,Face Serum,Face Care,72.33,31.1,129
+787,Nourish Toner 50ml,Toner,Face Care,4.35,1.91,107
+788,Radiant Dry Shampoo 250ml,Dry Shampoo,Shampoo,4.91,2.16,120
+789,Nourish BB Cream 75ml,BB Cream,Face Care,30.05,16.86,136
+790,Silk Base Coat 50ml,Base Coat,Nail Care,15.34,10.35,136
+791,Radiant Scalp Serum 100ml,Scalp Serum,Hair Treatment,8.13,3.77,114
+792,Balance BB Cream 250ml,BB Cream,Face Care,19.22,10.04,124
+793,Calming Leave-in Treatment 100ml,Leave-in Treatment,Hair Treatment,35.43,16.56,114
+794,Velvet BB Cream 200ml,BB Cream,Face Care,4.46,2.2,101
+795,Botanical Face Cleanser 50ml,Face Cleanser,Face Care,29.32,18.25,121
+796,Soothing Body Scrub 75ml,Body Scrub,Body Care,21.43,9.95,127
+797,Radiant Face Cream 75ml,Face Cream,Face Care,13.69,7.81,114
+798,Luxe Scalp Serum 100ml,Scalp Serum,Hair Treatment,20.02,10.56,125
+799,Silk Nail File 250ml,Nail File,Nail Tools,20.29,12.74,121
+800,Nourish Shampoo 200ml,Shampoo,Shampoo,25.53,13.14,124
+801,Balance Shampoo 100ml,Shampoo,Shampoo,7.48,3.24,104
+802,Fresh Hair Mask 250ml,Hair Mask,Hair Mask,39.25,17.43,110
+803,Hydra Shampoo 30ml,Shampoo,Shampoo,36.37,23.03,125
+804,Velvet Hair Serum 50ml,Hair Serum,Hair Treatment,37.24,17.54,128
+805,Repair Face Cleanser 50ml,Face Cleanser,Face Care,4.14,2.61,135
+806,Clarifying BB Cream 250ml,BB Cream,Face Care,41.08,22.41,111
+807,Glow Scalp Serum 100ml,Scalp Serum,Hair Treatment,12.24,8.53,142
+808,Velvet Body Scrub 50ml,Body Scrub,Body Care,25.14,16.73,124
+809,Fresh Lipstick 30ml,Lipstick,Makeup,3.37,1.58,116
+810,Glow Foundation 75ml,Foundation,Makeup,9.52,6.59,108
+811,Fresh Nail Polish 200ml,Nail Polish,Nail Care,32.21,15.79,110
+812,Soothing Shampoo 30ml,Shampoo,Shampoo,25.05,17.13,118
+813,Clarifying Cuticle Oil 200ml,Cuticle Oil,Nail Care,6.93,3.85,116
+814,Pure Body Wash 50ml,Body Wash,Body Care,28.34,13.97,118
+815,Hydra Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,8.56,5.94,117
+816,Hydra Cuticle Oil 50ml,Cuticle Oil,Nail Care,13.29,6.29,116
+817,Balance BB Cream 150ml,BB Cream,Face Care,6.45,2.91,119
+818,Revive Nail Clippers 50ml,Nail Clippers,Nail Tools,21.64,13.04,124
+819,Luxe Nail Clippers 150ml,Nail Clippers,Nail Tools,39.25,25.12,139
+820,Clarifying Lipstick 50ml,Lipstick,Makeup,33.38,15.39,114
+821,Velvet Cuticle Oil 100ml,Cuticle Oil,Nail Care,7.96,3.28,101
+822,Fresh Nail Polish 100ml,Nail Polish,Nail Care,15.85,9.17,136
+823,Balance Nail Clippers 30ml,Nail Clippers,Nail Tools,4.67,2.77,122
+824,Nourish Hair Mask 250ml,Hair Mask,Hair Mask,48.98,22.17,109
+825,Radiant Nail Clippers 30ml,Nail Clippers,Nail Tools,16.7,10.29,119
+826,Nourish Conditioner 200ml,Conditioner,Conditioner,27.66,17.8,138
+827,Pure Lip Balm 250ml,Lip Balm,Makeup,19.28,9.61,110
+828,Bright Face Cream 250ml,Face Cream,Face Care,9.97,5.29,101
+829,Calming Body Scrub 50ml,Body Scrub,Body Care,10.56,5.85,101
+830,Gentle Hair Serum 75ml,Hair Serum,Hair Treatment,23.68,14.16,130
+831,Nourish Nail Polish 100ml,Nail Polish,Nail Care,60.92,41.14,114
+832,Pure Lip Balm 200ml,Lip Balm,Makeup,12.5,5.19,113
+833,Gentle Scalp Serum 150ml,Scalp Serum,Hair Treatment,42.07,17.25,139
+834,Luxe BB Cream 75ml,BB Cream,Face Care,34.4,15.13,133
+835,Bright Body Scrub 50ml,Body Scrub,Body Care,12.74,7.52,127
+836,Silk Nail Brush 30ml,Nail Brush,Nail Tools,39.65,20.13,133
+837,Botanical Nail Clippers 100ml,Nail Clippers,Nail Tools,37.17,20.77,124
+838,Luxe Scalp Serum 150ml,Scalp Serum,Hair Treatment,2.96,1.66,122
+839,Bright Scalp Serum 50ml,Scalp Serum,Hair Treatment,28.83,16.74,116
+840,Pure Body Wash 100ml,Body Wash,Body Care,45.81,28.04,118
+841,Soothing Face Cleanser 150ml,Face Cleanser,Face Care,6.46,3.71,117
+842,Silk Top Coat 200ml,Top Coat,Nail Care,5.75,2.54,116
+843,Gentle Hair Serum 200ml,Hair Serum,Hair Treatment,19.42,7.87,115
+844,Repair Scalp Serum 250ml,Scalp Serum,Hair Treatment,58.14,37.24,95
+845,Soothing Lip Balm 75ml,Lip Balm,Makeup,6.89,4.0,134
+846,Silk Hair Serum 30ml,Hair Serum,Hair Treatment,4.65,1.93,122
+847,Soothing Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,11.44,5.66,129
+848,Revive Hair Mask 200ml,Hair Mask,Hair Mask,10.23,4.64,118
+849,Bright Dry Shampoo 200ml,Dry Shampoo,Shampoo,4.32,2.36,110
+850,Luxe Face Cream 250ml,Face Cream,Face Care,10.31,5.94,108
+851,Clarifying Hair Mask 150ml,Hair Mask,Hair Mask,21.74,9.02,117
+852,Bright Face Cream 75ml,Face Cream,Face Care,72.6,46.55,117
+853,Soothing Conditioner 75ml,Conditioner,Conditioner,25.77,11.29,121
+854,Calming Nail Brush 200ml,Nail Brush,Nail Tools,31.34,20.39,124
+855,Calming Hair Mask 250ml,Hair Mask,Hair Mask,6.89,3.92,117
+856,Nourish Cuticle Oil 75ml,Cuticle Oil,Nail Care,15.25,9.76,116
+857,Luxe Nail File 200ml,Nail File,Nail Tools,13.79,6.67,138
+858,Botanical Foundation 200ml,Foundation,Makeup,21.34,11.26,99
+859,Hydra Face Cleanser 100ml,Face Cleanser,Face Care,26.51,16.7,121
+860,Botanical Face Cream 150ml,Face Cream,Face Care,35.24,23.81,99
+861,Luxe Scalp Serum 250ml,Scalp Serum,Hair Treatment,16.87,8.42,147
+862,Calming Hair Serum 50ml,Hair Serum,Hair Treatment,10.82,7.22,115
+863,Silk Body Lotion 150ml,Body Lotion,Body Care,43.78,26.34,127
+864,Revive Lipstick 250ml,Lipstick,Makeup,29.37,18.69,145
+865,Silk Hair Mask 250ml,Hair Mask,Hair Mask,26.96,18.61,136
+866,Pure Face Serum 100ml,Face Serum,Face Care,15.93,6.99,118
+867,Revive Body Lotion 100ml,Body Lotion,Body Care,43.51,28.96,124
+868,Calming BB Cream 150ml,BB Cream,Face Care,6.02,3.58,114
+869,Glow Face Cream 100ml,Face Cream,Face Care,33.6,14.92,117
+870,Calming Mascara 150ml,Mascara,Makeup,33.46,13.41,128
+871,Soothing BB Cream 250ml,BB Cream,Face Care,8.0,4.39,109
+872,Silk Hair Oil 75ml,Hair Oil,Hair Treatment,9.54,4.83,131
+873,Bright Shampoo 75ml,Shampoo,Shampoo,5.88,3.88,127
+874,Soothing Scalp Serum 250ml,Scalp Serum,Hair Treatment,24.74,16.2,126
+875,Gentle Toner 100ml,Toner,Face Care,2.08,1.18,122
+876,Soothing Cuticle Oil 75ml,Cuticle Oil,Nail Care,19.66,12.31,127
+877,Bright Base Coat 200ml,Base Coat,Nail Care,8.93,5.6,110
+878,Gentle Body Scrub 150ml,Body Scrub,Body Care,7.48,4.98,113
+879,Velvet Base Coat 75ml,Base Coat,Nail Care,3.66,2.19,118
+880,Velvet Base Coat 75ml,Base Coat,Nail Care,8.09,3.91,114
+881,Fresh Hair Serum 50ml,Hair Serum,Hair Treatment,51.62,27.69,103
+882,Hydra BB Cream 30ml,BB Cream,Face Care,9.25,6.42,111
+883,Botanical Shampoo 200ml,Shampoo,Shampoo,23.01,12.28,118
+884,Radiant Body Scrub 50ml,Body Scrub,Body Care,6.87,3.47,117
+885,Botanical Toner 200ml,Toner,Face Care,37.37,25.14,120
+886,Luxe Nail Clippers 100ml,Nail Clippers,Nail Tools,26.68,14.73,117
+887,Gentle Body Lotion 30ml,Body Lotion,Body Care,13.71,8.66,114
+888,Silk Lip Balm 100ml,Lip Balm,Makeup,19.79,13.6,130
+889,Pure Blush 100ml,Blush,Makeup,21.2,14.66,107
+890,Silk Nail Polish 30ml,Nail Polish,Nail Care,7.38,3.17,107
+891,Calming Face Cream 100ml,Face Cream,Face Care,8.58,3.48,139
+892,Botanical Nail Polish 250ml,Nail Polish,Nail Care,34.27,16.98,128
+893,Balance Lip Balm 250ml,Lip Balm,Makeup,56.68,24.17,120
+894,Hydra Foundation 150ml,Foundation,Makeup,18.49,10.67,121
+895,Velvet Body Wash 150ml,Body Wash,Body Care,28.62,15.15,95
+896,Glow Lip Balm 100ml,Lip Balm,Makeup,43.1,18.2,128
+897,Fresh Nail Brush 250ml,Nail Brush,Nail Tools,12.68,7.96,133
+898,Botanical Body Wash 100ml,Body Wash,Body Care,15.47,7.82,142
+899,Silk Conditioner 30ml,Conditioner,Conditioner,29.12,17.23,93
+900,Bright Dry Shampoo 30ml,Dry Shampoo,Shampoo,94.33,39.28,125
+901,Gentle Lip Balm 30ml,Lip Balm,Makeup,29.94,13.33,125
+902,Pure Foundation 75ml,Foundation,Makeup,20.97,12.26,125
+903,Clarifying Dry Shampoo 250ml,Dry Shampoo,Shampoo,10.28,6.19,119
+904,Balance Nail File 150ml,Nail File,Nail Tools,15.7,9.9,115
+905,Glow Face Cleanser 150ml,Face Cleanser,Face Care,28.5,16.64,97
+906,Bright Shampoo 150ml,Shampoo,Shampoo,26.17,13.24,118
+907,Revive BB Cream 250ml,BB Cream,Face Care,10.18,5.72,111
+908,Luxe Foundation 250ml,Foundation,Makeup,46.9,23.29,119
+909,Soothing Lip Balm 250ml,Lip Balm,Makeup,46.94,29.28,118
+910,Soothing Body Lotion 150ml,Body Lotion,Body Care,15.05,6.6,120
+911,Nourish Mascara 50ml,Mascara,Makeup,20.58,9.29,123
+912,Radiant Nail File 150ml,Nail File,Nail Tools,9.85,5.75,118
+913,Glow Hair Oil 30ml,Hair Oil,Hair Treatment,8.61,5.58,110
+914,Revive Base Coat 75ml,Base Coat,Nail Care,21.71,10.6,123
+915,Radiant Hair Mask 250ml,Hair Mask,Hair Mask,8.81,3.91,113
+916,Nourish Hair Mask 50ml,Hair Mask,Hair Mask,27.63,11.16,127
+917,Luxe Nail Clippers 200ml,Nail Clippers,Nail Tools,11.97,5.03,117
+918,Revive Top Coat 250ml,Top Coat,Nail Care,38.1,22.28,108
+919,Hydra Body Scrub 100ml,Body Scrub,Body Care,15.36,10.69,100
+920,Fresh Hand Cream 200ml,Hand Cream,Hand Care,3.53,2.32,132
+921,Repair Hand Cream 200ml,Hand Cream,Hand Care,12.21,8.1,129
+922,Bright Lipstick 100ml,Lipstick,Makeup,17.91,8.54,122
+923,Repair Foundation 30ml,Foundation,Makeup,4.11,1.66,140
+924,Gentle Nail Brush 100ml,Nail Brush,Nail Tools,4.42,2.3,102
+925,Bright Body Scrub 50ml,Body Scrub,Body Care,14.15,6.64,120
+926,Pure Hand Cream 30ml,Hand Cream,Hand Care,36.73,21.23,132
+927,Bright Base Coat 100ml,Base Coat,Nail Care,27.25,11.85,122
+928,Hydra Hair Mask 75ml,Hair Mask,Hair Mask,16.26,8.81,125
+929,Calming Nail Polish 75ml,Nail Polish,Nail Care,8.31,3.82,107
+930,Soothing Nail File 30ml,Nail File,Nail Tools,8.0,5.2,108
+931,Soothing Lipstick 150ml,Lipstick,Makeup,27.64,18.37,110
+932,Gentle Lipstick 250ml,Lipstick,Makeup,19.27,10.22,110
+933,Pure Scalp Serum 250ml,Scalp Serum,Hair Treatment,32.57,19.24,123
+934,Radiant Leave-in Treatment 75ml,Leave-in Treatment,Hair Treatment,43.09,29.32,121
+935,Gentle Hair Mask 200ml,Hair Mask,Hair Mask,11.44,4.67,121
+936,Pure Foundation 250ml,Foundation,Makeup,23.39,14.93,114
+937,Bright Nail Brush 30ml,Nail Brush,Nail Tools,25.99,15.31,113
+938,Luxe Conditioner 200ml,Conditioner,Conditioner,9.41,4.05,99
+939,Glow Face Cleanser 200ml,Face Cleanser,Face Care,9.82,4.25,143
+940,Bright Face Cream 250ml,Face Cream,Face Care,29.32,17.99,128
+941,Glow Conditioner 200ml,Conditioner,Conditioner,16.47,8.72,119
+942,Velvet Nail Polish 150ml,Nail Polish,Nail Care,8.18,4.5,132
+943,Pure Hair Mask 150ml,Hair Mask,Hair Mask,8.54,5.58,124
+944,Glow Shampoo 250ml,Shampoo,Shampoo,5.89,3.77,146
+945,Silk Scalp Serum 100ml,Scalp Serum,Hair Treatment,12.35,5.79,132
+946,Velvet Base Coat 200ml,Base Coat,Nail Care,7.22,4.3,127
+947,Hydra Nail Brush 250ml,Nail Brush,Nail Tools,17.85,8.14,115
+948,Balance Hair Oil 200ml,Hair Oil,Hair Treatment,102.0,46.78,119
+949,Clarifying Top Coat 30ml,Top Coat,Nail Care,23.77,13.59,119
+950,Fresh Cuticle Oil 200ml,Cuticle Oil,Nail Care,38.62,25.78,128
+951,Gentle Lip Balm 150ml,Lip Balm,Makeup,22.66,13.44,105
+952,Calming Hand Cream 200ml,Hand Cream,Hand Care,4.4,1.87,114
+953,Balance BB Cream 30ml,BB Cream,Face Care,18.2,7.49,118
+954,Luxe BB Cream 50ml,BB Cream,Face Care,9.52,6.28,137
+955,Hydra Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,8.5,3.67,124
+956,Silk Base Coat 30ml,Base Coat,Nail Care,13.72,6.06,109
+957,Revive Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,27.24,17.59,121
+958,Soothing Dry Shampoo 200ml,Dry Shampoo,Shampoo,12.88,7.05,117
+959,Nourish Nail Strengthener 200ml,Nail Strengthener,Nail Care,32.69,22.55,130
+960,Balance Hair Mask 150ml,Hair Mask,Hair Mask,19.04,8.1,127
+961,Hydra Hand Cream 30ml,Hand Cream,Hand Care,21.2,11.47,105
+962,Glow Hair Serum 150ml,Hair Serum,Hair Treatment,15.69,9.01,128
+963,Glow Shampoo 75ml,Shampoo,Shampoo,46.0,30.46,134
+964,Calming Cuticle Oil 200ml,Cuticle Oil,Nail Care,9.39,4.13,115
+965,Revive Hair Serum 100ml,Hair Serum,Hair Treatment,9.82,5.15,104
+966,Fresh Blush 200ml,Blush,Makeup,12.75,8.76,117
+967,Calming Nail Clippers 200ml,Nail Clippers,Nail Tools,24.58,9.99,129
+968,Radiant Nail Clippers 75ml,Nail Clippers,Nail Tools,27.38,14.75,121
+969,Gentle Blush 150ml,Blush,Makeup,10.5,6.47,124
+970,Gentle Foundation 150ml,Foundation,Makeup,33.7,14.18,117
+971,Revive Face Cleanser 30ml,Face Cleanser,Face Care,7.51,3.76,117
+972,Bright Face Cleanser 250ml,Face Cleanser,Face Care,29.09,19.07,118
+973,Radiant Toner 75ml,Toner,Face Care,21.89,15.07,125
+974,Balance Base Coat 200ml,Base Coat,Nail Care,16.68,9.56,130
+975,Hydra Hand Cream 250ml,Hand Cream,Hand Care,24.01,14.89,143
+976,Silk Face Serum 75ml,Face Serum,Face Care,14.95,9.78,117
+977,Hydra Hair Serum 100ml,Hair Serum,Hair Treatment,20.17,13.09,137
+978,Repair Scalp Serum 150ml,Scalp Serum,Hair Treatment,112.71,55.15,110
+979,Gentle Body Wash 200ml,Body Wash,Body Care,33.63,17.77,119
+980,Silk Nail Clippers 50ml,Nail Clippers,Nail Tools,10.66,6.16,98
+981,Pure Hair Oil 150ml,Hair Oil,Hair Treatment,12.88,8.88,132
+982,Glow Lip Balm 250ml,Lip Balm,Makeup,43.23,29.6,124
+983,Botanical Nail Polish 50ml,Nail Polish,Nail Care,11.99,6.74,99
+984,Botanical Body Lotion 30ml,Body Lotion,Body Care,64.11,35.65,133
+985,Calming Lip Balm 150ml,Lip Balm,Makeup,30.33,14.18,126
+986,Balance Nail Polish 250ml,Nail Polish,Nail Care,5.56,2.89,128
+987,Clarifying Leave-in Treatment 100ml,Leave-in Treatment,Hair Treatment,32.94,17.48,130
+988,Nourish Hair Serum 30ml,Hair Serum,Hair Treatment,2.93,1.29,144
+989,Gentle Nail Clippers 250ml,Nail Clippers,Nail Tools,12.44,7.78,126
+990,Bright Body Scrub 200ml,Body Scrub,Body Care,32.59,17.39,122
+991,Pure Face Serum 250ml,Face Serum,Face Care,3.7,1.95,112
+992,Bright Lipstick 50ml,Lipstick,Makeup,83.39,43.45,123
+993,Bright Shampoo 150ml,Shampoo,Shampoo,35.69,14.72,108
+994,Soothing Scalp Serum 100ml,Scalp Serum,Hair Treatment,7.52,4.74,134
+995,Soothing Nail File 100ml,Nail File,Nail Tools,55.48,32.64,104
+996,Hydra Base Coat 200ml,Base Coat,Nail Care,3.57,1.57,118
+997,Silk Nail Strengthener 200ml,Nail Strengthener,Nail Care,7.34,4.17,138
+998,Revive Shampoo 150ml,Shampoo,Shampoo,5.3,3.24,124
+999,Soothing Blush 30ml,Blush,Makeup,3.39,1.99,117
+1000,Nourish Lip Balm 200ml,Lip Balm,Makeup,12.6,8.68,112
+1001,Silk Dry Shampoo 100ml,Dry Shampoo,Shampoo,19.16,8.34,106
+1002,Glow Hair Serum 75ml,Hair Serum,Hair Treatment,18.71,11.83,112
+1003,Repair Body Scrub 150ml,Body Scrub,Body Care,18.25,8.78,125
+1004,Botanical Mascara 250ml,Mascara,Makeup,17.15,9.31,113
+1005,Botanical Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,6.39,3.27,124
+1006,Gentle Dry Shampoo 100ml,Dry Shampoo,Shampoo,11.0,5.71,108
+1007,Revive Face Cleanser 200ml,Face Cleanser,Face Care,1.82,0.9,118
+1008,Radiant Mascara 100ml,Mascara,Makeup,39.0,23.82,129
+1009,Luxe Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,17.74,9.74,110
+1010,Nourish Body Lotion 50ml,Body Lotion,Body Care,17.37,7.61,129
+1011,Nourish Lipstick 100ml,Lipstick,Makeup,30.68,20.43,119
+1012,Silk Blush 250ml,Blush,Makeup,32.48,16.67,125
+1013,Radiant Dry Shampoo 250ml,Dry Shampoo,Shampoo,12.32,8.37,112
+1014,Calming Nail Brush 200ml,Nail Brush,Nail Tools,14.98,9.6,112
+1015,Silk Hair Mask 75ml,Hair Mask,Hair Mask,57.56,40.03,114
+1016,Repair Hair Oil 100ml,Hair Oil,Hair Treatment,10.3,4.33,115
+1017,Repair Hair Mask 50ml,Hair Mask,Hair Mask,57.16,38.05,117
+1018,Radiant Hair Serum 75ml,Hair Serum,Hair Treatment,12.43,7.22,129
+1019,Gentle Cuticle Oil 75ml,Cuticle Oil,Nail Care,3.57,2.23,137
+1020,Fresh Face Cleanser 200ml,Face Cleanser,Face Care,17.67,9.7,126
+1021,Balance Hair Oil 100ml,Hair Oil,Hair Treatment,12.35,7.55,134
+1022,Botanical Lip Balm 150ml,Lip Balm,Makeup,5.59,2.61,131
+1023,Hydra Mascara 75ml,Mascara,Makeup,15.41,7.42,119
+1024,Hydra Shampoo 50ml,Shampoo,Shampoo,11.15,5.58,130
+1025,Balance Nail Clippers 50ml,Nail Clippers,Nail Tools,73.63,30.52,90
+1026,Soothing Lipstick 50ml,Lipstick,Makeup,35.69,18.62,107
+1027,Luxe Base Coat 250ml,Base Coat,Nail Care,7.62,4.33,113
+1028,Gentle Toner 200ml,Toner,Face Care,9.1,5.56,122
+1029,Soothing Top Coat 150ml,Top Coat,Nail Care,36.62,23.16,104
+1030,Bright Blush 30ml,Blush,Makeup,43.38,20.53,123
+1031,Pure Blush 100ml,Blush,Makeup,12.6,6.93,123
+1032,Velvet Mascara 50ml,Mascara,Makeup,11.19,7.35,111
+1033,Hydra Shampoo 75ml,Shampoo,Shampoo,14.85,10.37,129
+1034,Balance Hair Oil 100ml,Hair Oil,Hair Treatment,20.74,9.68,121
+1035,Bright Lipstick 150ml,Lipstick,Makeup,29.39,12.96,124
+1036,Silk Lip Balm 30ml,Lip Balm,Makeup,30.63,16.95,141
+1037,Fresh Face Cream 150ml,Face Cream,Face Care,7.07,4.77,115
+1038,Pure Dry Shampoo 200ml,Dry Shampoo,Shampoo,12.33,8.14,115
+1039,Clarifying Toner 200ml,Toner,Face Care,3.09,1.37,107
+1040,Clarifying Base Coat 250ml,Base Coat,Nail Care,16.14,11.15,109
+1041,Fresh Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,5.42,2.19,124
+1042,Silk Shampoo 100ml,Shampoo,Shampoo,9.16,4.1,147
+1043,Hydra Hair Oil 75ml,Hair Oil,Hair Treatment,39.77,25.54,113
+1044,Gentle Lipstick 30ml,Lipstick,Makeup,22.47,12.99,125
+1045,Velvet Face Cleanser 200ml,Face Cleanser,Face Care,21.74,11.18,111
+1046,Calming Nail Strengthener 50ml,Nail Strengthener,Nail Care,16.47,6.73,122
+1047,Luxe Top Coat 50ml,Top Coat,Nail Care,50.55,25.89,110
+1048,Revive Scalp Serum 200ml,Scalp Serum,Hair Treatment,9.95,5.09,107
+1049,Luxe Shampoo 75ml,Shampoo,Shampoo,18.74,11.69,130
+1050,Velvet Shampoo 150ml,Shampoo,Shampoo,17.96,8.09,131
+1051,Calming Lip Balm 100ml,Lip Balm,Makeup,12.44,8.68,133
+1052,Velvet Nail Polish 200ml,Nail Polish,Nail Care,90.98,56.07,101
+1053,Fresh Blush 250ml,Blush,Makeup,6.19,4.26,127
+1054,Nourish Base Coat 200ml,Base Coat,Nail Care,3.75,1.97,101
+1055,Clarifying Body Lotion 200ml,Body Lotion,Body Care,17.93,11.08,91
+1056,Radiant Face Cleanser 30ml,Face Cleanser,Face Care,10.15,6.6,124
+1057,Glow Scalp Serum 250ml,Scalp Serum,Hair Treatment,2.57,1.79,95
+1058,Soothing Lipstick 50ml,Lipstick,Makeup,22.21,12.99,103
+1059,Velvet Nail Strengthener 150ml,Nail Strengthener,Nail Care,19.95,13.12,119
+1060,Fresh Cuticle Oil 250ml,Cuticle Oil,Nail Care,40.36,22.18,119
+1061,Balance Top Coat 30ml,Top Coat,Nail Care,10.54,6.64,136
+1062,Fresh Nail Strengthener 250ml,Nail Strengthener,Nail Care,3.72,1.55,105
+1063,Hydra Toner 75ml,Toner,Face Care,7.76,3.15,120
+1064,Glow Face Serum 75ml,Face Serum,Face Care,3.53,1.53,115
+1065,Hydra Face Cleanser 200ml,Face Cleanser,Face Care,54.46,32.98,102
+1066,Bright Lipstick 150ml,Lipstick,Makeup,36.77,22.48,135
+1067,Pure Nail Strengthener 75ml,Nail Strengthener,Nail Care,45.91,31.49,122
+1068,Balance Leave-in Treatment 100ml,Leave-in Treatment,Hair Treatment,28.03,16.01,105
+1069,Calming Cuticle Oil 100ml,Cuticle Oil,Nail Care,5.36,2.97,115
+1070,Fresh Base Coat 200ml,Base Coat,Nail Care,11.9,5.77,117
+1071,Botanical Top Coat 50ml,Top Coat,Nail Care,31.0,19.71,116
+1072,Calming Mascara 100ml,Mascara,Makeup,4.22,2.69,107
+1073,Silk Body Wash 100ml,Body Wash,Body Care,23.4,12.06,110
+1074,Calming Body Scrub 200ml,Body Scrub,Body Care,30.65,19.0,119
+1075,Repair Face Cream 30ml,Face Cream,Face Care,100.54,54.83,112
+1076,Gentle Top Coat 30ml,Top Coat,Nail Care,35.32,16.04,116
+1077,Luxe Nail File 50ml,Nail File,Nail Tools,24.05,13.73,102
+1078,Balance Toner 150ml,Toner,Face Care,16.82,11.3,117
+1079,Revive Body Scrub 100ml,Body Scrub,Body Care,25.4,10.64,132
+1080,Clarifying Hair Mask 200ml,Hair Mask,Hair Mask,26.8,13.25,130
+1081,Revive Nail Strengthener 250ml,Nail Strengthener,Nail Care,3.14,1.33,112
+1082,Nourish Nail Brush 150ml,Nail Brush,Nail Tools,19.51,10.33,117
+1083,Pure Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,1.98,1.37,107
+1084,Pure Hair Serum 250ml,Hair Serum,Hair Treatment,2.71,1.41,120
+1085,Calming Body Wash 50ml,Body Wash,Body Care,17.01,7.98,116
+1086,Fresh Lipstick 30ml,Lipstick,Makeup,24.12,14.57,111
+1087,Gentle Body Lotion 50ml,Body Lotion,Body Care,5.69,3.14,109
+1088,Botanical Toner 150ml,Toner,Face Care,39.45,18.2,122
+1089,Bright Lip Balm 50ml,Lip Balm,Makeup,55.46,35.69,118
+1090,Gentle Hand Cream 30ml,Hand Cream,Hand Care,31.34,18.69,117
+1091,Repair Scalp Serum 50ml,Scalp Serum,Hair Treatment,16.1,7.08,130
+1092,Soothing Dry Shampoo 30ml,Dry Shampoo,Shampoo,21.01,10.55,118
+1093,Repair Scalp Serum 200ml,Scalp Serum,Hair Treatment,18.0,10.16,123
+1094,Gentle Hair Oil 100ml,Hair Oil,Hair Treatment,19.52,9.15,129
+1095,Fresh Blush 250ml,Blush,Makeup,7.25,3.15,118
+1096,Repair Top Coat 75ml,Top Coat,Nail Care,12.21,7.46,140
+1097,Fresh Hand Cream 100ml,Hand Cream,Hand Care,17.25,9.99,136
+1098,Soothing Body Wash 100ml,Body Wash,Body Care,21.54,8.92,125
+1099,Calming BB Cream 50ml,BB Cream,Face Care,26.35,15.37,118
+1100,Botanical Top Coat 30ml,Top Coat,Nail Care,7.4,4.48,99
+1101,Luxe Lip Balm 200ml,Lip Balm,Makeup,14.32,6.17,114
+1102,Clarifying Face Cream 200ml,Face Cream,Face Care,13.27,7.9,116
+1103,Hydra Hair Oil 30ml,Hair Oil,Hair Treatment,78.85,47.62,120
+1104,Calming Toner 200ml,Toner,Face Care,20.08,13.98,108
+1105,Silk Face Cream 75ml,Face Cream,Face Care,28.19,16.98,109
+1106,Fresh Nail File 250ml,Nail File,Nail Tools,36.5,23.73,129
+1107,Radiant Conditioner 30ml,Conditioner,Conditioner,32.56,21.41,108
+1108,Revive Nail File 150ml,Nail File,Nail Tools,3.23,1.31,118
+1109,Calming Hand Cream 250ml,Hand Cream,Hand Care,14.26,9.81,106
+1110,Bright Hand Cream 50ml,Hand Cream,Hand Care,28.29,15.86,128
+1111,Soothing Hair Mask 250ml,Hair Mask,Hair Mask,18.25,9.3,97
+1112,Gentle Toner 150ml,Toner,Face Care,4.33,1.78,106
+1113,Silk Body Wash 75ml,Body Wash,Body Care,7.14,4.09,118
+1114,Radiant Body Wash 30ml,Body Wash,Body Care,8.08,5.62,108
+1115,Calming Top Coat 75ml,Top Coat,Nail Care,21.38,10.28,94
+1116,Botanical Mascara 250ml,Mascara,Makeup,19.83,12.99,132
+1117,Glow Scalp Serum 75ml,Scalp Serum,Hair Treatment,55.65,38.25,101
+1118,Calming Nail Strengthener 150ml,Nail Strengthener,Nail Care,16.61,9.14,136
+1119,Calming Shampoo 150ml,Shampoo,Shampoo,19.35,12.36,118
+1120,Balance Foundation 30ml,Foundation,Makeup,5.64,2.7,119
+1121,Glow Toner 150ml,Toner,Face Care,14.52,6.45,118
+1122,Radiant Lip Balm 150ml,Lip Balm,Makeup,101.36,47.5,128
+1123,Radiant Face Cream 30ml,Face Cream,Face Care,21.62,11.98,120
+1124,Revive Face Serum 30ml,Face Serum,Face Care,10.51,5.32,128
+1125,Calming Nail Brush 200ml,Nail Brush,Nail Tools,22.93,14.83,119
+1126,Hydra Body Wash 30ml,Body Wash,Body Care,37.85,24.74,110
+1127,Nourish Blush 100ml,Blush,Makeup,24.49,14.48,114
+1128,Luxe Nail Polish 50ml,Nail Polish,Nail Care,31.98,17.51,118
+1129,Bright Lip Balm 150ml,Lip Balm,Makeup,35.43,15.01,132
+1130,Botanical BB Cream 250ml,BB Cream,Face Care,18.64,11.28,116
+1131,Clarifying Base Coat 200ml,Base Coat,Nail Care,21.4,8.77,112
+1132,Fresh Dry Shampoo 150ml,Dry Shampoo,Shampoo,10.19,4.8,129
+1133,Gentle Nail Polish 100ml,Nail Polish,Nail Care,10.1,6.88,117
+1134,Repair Mascara 75ml,Mascara,Makeup,15.42,8.51,112
+1135,Soothing Leave-in Treatment 100ml,Leave-in Treatment,Hair Treatment,5.7,2.98,127
+1136,Soothing Hand Cream 100ml,Hand Cream,Hand Care,22.09,11.38,119
+1137,Fresh Body Wash 50ml,Body Wash,Body Care,8.7,4.98,139
+1138,Revive Base Coat 75ml,Base Coat,Nail Care,18.98,8.51,140
+1139,Silk Scalp Serum 30ml,Scalp Serum,Hair Treatment,24.87,13.78,105
+1140,Revive Base Coat 150ml,Base Coat,Nail Care,5.74,3.53,118
+1141,Balance Face Cream 200ml,Face Cream,Face Care,22.83,15.16,94
+1142,Pure Top Coat 50ml,Top Coat,Nail Care,3.15,1.41,121
+1143,Gentle Body Lotion 100ml,Body Lotion,Body Care,26.34,13.52,120
+1144,Fresh Face Cleanser 30ml,Face Cleanser,Face Care,26.63,13.59,117
+1145,Glow Nail Clippers 30ml,Nail Clippers,Nail Tools,28.11,15.59,125
+1146,Clarifying Top Coat 50ml,Top Coat,Nail Care,21.65,9.76,126
+1147,Revive Leave-in Treatment 75ml,Leave-in Treatment,Hair Treatment,10.86,6.75,105
+1148,Clarifying Hair Mask 75ml,Hair Mask,Hair Mask,11.18,6.75,118
+1149,Clarifying Face Cream 50ml,Face Cream,Face Care,10.05,4.25,120
+1150,Revive Face Cleanser 30ml,Face Cleanser,Face Care,37.48,21.04,129
+1151,Pure Lipstick 150ml,Lipstick,Makeup,63.6,29.8,139
+1152,Soothing Nail Strengthener 100ml,Nail Strengthener,Nail Care,17.59,7.43,120
+1153,Pure Nail File 250ml,Nail File,Nail Tools,7.46,3.33,114
+1154,Bright Body Wash 200ml,Body Wash,Body Care,13.16,6.42,130
+1155,Nourish Nail File 250ml,Nail File,Nail Tools,35.99,20.86,140
+1156,Gentle Face Cleanser 75ml,Face Cleanser,Face Care,25.61,11.81,151
+1157,Botanical Lipstick 150ml,Lipstick,Makeup,16.9,9.16,121
+1158,Radiant Top Coat 150ml,Top Coat,Nail Care,13.31,7.4,113
+1159,Soothing BB Cream 100ml,BB Cream,Face Care,4.26,1.94,121
+1160,Balance Mascara 250ml,Mascara,Makeup,13.85,8.09,121
+1161,Repair Face Cream 75ml,Face Cream,Face Care,12.06,6.04,118
+1162,Velvet Lipstick 75ml,Lipstick,Makeup,11.74,7.65,119
+1163,Calming Body Lotion 200ml,Body Lotion,Body Care,20.6,13.37,120
+1164,Clarifying Body Scrub 30ml,Body Scrub,Body Care,66.71,30.87,106
+1165,Calming Nail Brush 75ml,Nail Brush,Nail Tools,16.71,7.57,116
+1166,Repair Hair Oil 200ml,Hair Oil,Hair Treatment,26.54,16.16,115
+1167,Clarifying Dry Shampoo 200ml,Dry Shampoo,Shampoo,15.67,6.73,112
+1168,Soothing Shampoo 30ml,Shampoo,Shampoo,15.66,8.57,98
+1169,Gentle Conditioner 250ml,Conditioner,Conditioner,40.96,26.07,96
+1170,Silk Toner 50ml,Toner,Face Care,22.17,14.4,115
+1171,Silk Nail Strengthener 50ml,Nail Strengthener,Nail Care,30.67,21.29,104
+1172,Soothing Nail Polish 250ml,Nail Polish,Nail Care,44.34,22.9,128
+1173,Silk BB Cream 75ml,BB Cream,Face Care,21.98,15.07,125
+1174,Velvet Nail Brush 75ml,Nail Brush,Nail Tools,20.0,13.94,98
+1175,Soothing Hair Mask 150ml,Hair Mask,Hair Mask,29.65,17.73,124
+1176,Velvet Conditioner 250ml,Conditioner,Conditioner,9.79,5.17,117
+1177,Velvet Scalp Serum 75ml,Scalp Serum,Hair Treatment,9.92,6.1,125
+1178,Gentle Body Wash 100ml,Body Wash,Body Care,8.96,4.64,118
+1179,Revive Face Cleanser 200ml,Face Cleanser,Face Care,11.11,4.96,121
+1180,Radiant Body Lotion 150ml,Body Lotion,Body Care,6.36,4.24,102
+1181,Calming Nail Clippers 200ml,Nail Clippers,Nail Tools,4.37,2.11,116
+1182,Radiant Scalp Serum 100ml,Scalp Serum,Hair Treatment,8.52,5.76,115
+1183,Glow Lip Balm 50ml,Lip Balm,Makeup,2.5,1.43,118
+1184,Glow Mascara 250ml,Mascara,Makeup,20.64,12.48,114
+1185,Gentle Nail File 200ml,Nail File,Nail Tools,17.8,8.88,125
+1186,Glow Dry Shampoo 200ml,Dry Shampoo,Shampoo,29.75,14.47,112
+1187,Silk Nail Brush 100ml,Nail Brush,Nail Tools,7.8,4.47,131
+1188,Fresh Base Coat 100ml,Base Coat,Nail Care,24.51,12.44,115
+1189,Balance Lip Balm 100ml,Lip Balm,Makeup,8.61,5.23,115
+1190,Pure Conditioner 75ml,Conditioner,Conditioner,30.55,21.16,140
+1191,Velvet Blush 50ml,Blush,Makeup,3.83,1.81,131
+1192,Botanical Nail File 50ml,Nail File,Nail Tools,13.6,9.34,120
+1193,Glow Nail Brush 75ml,Nail Brush,Nail Tools,11.95,5.25,140
+1194,Gentle Face Cleanser 150ml,Face Cleanser,Face Care,31.11,19.01,132
+1195,Nourish Body Wash 250ml,Body Wash,Body Care,30.74,16.81,96
+1196,Calming Face Cleanser 30ml,Face Cleanser,Face Care,43.6,23.28,124
+1197,Revive Scalp Serum 30ml,Scalp Serum,Hair Treatment,3.28,1.82,139
+1198,Nourish Lip Balm 250ml,Lip Balm,Makeup,54.43,22.41,123
+1199,Bright Face Serum 200ml,Face Serum,Face Care,7.84,3.82,110
+1200,Botanical Nail Strengthener 30ml,Nail Strengthener,Nail Care,64.49,33.73,124
+1201,Balance Toner 75ml,Toner,Face Care,97.41,52.82,146
+1202,Luxe BB Cream 50ml,BB Cream,Face Care,42.64,27.49,97
+1203,Luxe Nail Strengthener 30ml,Nail Strengthener,Nail Care,8.28,5.71,119
+1204,Calming Lipstick 200ml,Lipstick,Makeup,6.08,2.43,121
+1205,Balance Nail Brush 200ml,Nail Brush,Nail Tools,9.35,5.7,120
+1206,Luxe Nail Clippers 250ml,Nail Clippers,Nail Tools,25.96,16.61,98
+1207,Silk Hair Serum 200ml,Hair Serum,Hair Treatment,7.02,3.24,137
+1208,Revive Conditioner 100ml,Conditioner,Conditioner,3.72,1.82,111
+1209,Radiant Nail Polish 50ml,Nail Polish,Nail Care,39.05,17.46,105
+1210,Velvet Scalp Serum 75ml,Scalp Serum,Hair Treatment,10.17,6.96,135
+1211,Silk Face Cream 50ml,Face Cream,Face Care,34.18,23.77,126
+1212,Fresh Nail File 200ml,Nail File,Nail Tools,30.49,16.93,117
+1213,Silk Body Scrub 75ml,Body Scrub,Body Care,19.26,10.5,149
+1214,Soothing Mascara 75ml,Mascara,Makeup,32.18,20.46,102
+1215,Bright Base Coat 150ml,Base Coat,Nail Care,53.76,34.06,131
+1216,Clarifying Nail Strengthener 250ml,Nail Strengthener,Nail Care,30.31,12.42,110
+1217,Glow Nail Strengthener 250ml,Nail Strengthener,Nail Care,30.96,17.9,127
+1218,Clarifying Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,22.42,9.59,110
+1219,Soothing Nail Polish 200ml,Nail Polish,Nail Care,11.63,6.77,124
+1220,Calming Dry Shampoo 100ml,Dry Shampoo,Shampoo,21.04,11.79,124
+1221,Silk Mascara 100ml,Mascara,Makeup,19.44,7.96,97
+1222,Revive Nail Clippers 200ml,Nail Clippers,Nail Tools,24.32,11.85,127
+1223,Fresh Nail File 200ml,Nail File,Nail Tools,21.47,9.0,100
+1224,Radiant Lip Balm 50ml,Lip Balm,Makeup,11.41,5.02,108
+1225,Repair Mascara 75ml,Mascara,Makeup,40.92,22.32,123
+1226,Radiant Dry Shampoo 30ml,Dry Shampoo,Shampoo,10.79,5.72,123
+1227,Gentle Scalp Serum 50ml,Scalp Serum,Hair Treatment,22.54,15.29,141
+1228,Repair Face Cleanser 50ml,Face Cleanser,Face Care,24.83,14.81,115
+1229,Glow Blush 200ml,Blush,Makeup,7.1,3.14,111
+1230,Velvet Conditioner 250ml,Conditioner,Conditioner,57.37,35.28,123
+1231,Nourish Blush 200ml,Blush,Makeup,15.91,9.66,115
+1232,Soothing Nail Brush 150ml,Nail Brush,Nail Tools,7.43,3.13,140
+1233,Velvet Face Cream 250ml,Face Cream,Face Care,16.45,7.57,113
+1234,Soothing Hair Mask 50ml,Hair Mask,Hair Mask,7.54,3.46,122
+1235,Nourish Hand Cream 75ml,Hand Cream,Hand Care,10.34,5.26,124
+1236,Hydra Cuticle Oil 50ml,Cuticle Oil,Nail Care,10.18,4.63,123
+1237,Pure Face Serum 75ml,Face Serum,Face Care,14.75,7.3,136
+1238,Velvet Face Serum 100ml,Face Serum,Face Care,49.0,22.4,112
+1239,Clarifying Lip Balm 250ml,Lip Balm,Makeup,17.91,11.17,122
+1240,Revive Nail File 30ml,Nail File,Nail Tools,18.76,7.94,123
+1241,Balance Lipstick 50ml,Lipstick,Makeup,11.23,5.59,132
+1242,Hydra Body Wash 250ml,Body Wash,Body Care,20.63,11.72,117
+1243,Fresh Face Cream 50ml,Face Cream,Face Care,16.02,6.88,108
+1244,Gentle Hair Oil 200ml,Hair Oil,Hair Treatment,15.38,10.07,127
+1245,Gentle Hair Oil 50ml,Hair Oil,Hair Treatment,28.95,17.78,117
+1246,Silk Nail Clippers 30ml,Nail Clippers,Nail Tools,7.74,5.27,130
+1247,Soothing Lipstick 150ml,Lipstick,Makeup,45.29,22.04,120
+1248,Pure Face Serum 30ml,Face Serum,Face Care,1.9,1.02,119
+1249,Velvet Nail File 75ml,Nail File,Nail Tools,15.26,10.29,125
+1250,Pure Nail Strengthener 75ml,Nail Strengthener,Nail Care,48.76,30.88,115
+1251,Nourish Face Cleanser 150ml,Face Cleanser,Face Care,43.18,21.96,138
+1252,Hydra Hair Oil 75ml,Hair Oil,Hair Treatment,18.67,8.25,120
+1253,Balance Hair Serum 30ml,Hair Serum,Hair Treatment,8.6,4.84,125
+1254,Nourish Cuticle Oil 75ml,Cuticle Oil,Nail Care,14.78,8.26,142
+1255,Clarifying Scalp Serum 75ml,Scalp Serum,Hair Treatment,130.74,65.31,140
+1256,Balance Lip Balm 75ml,Lip Balm,Makeup,28.99,14.82,127
+1257,Gentle BB Cream 200ml,BB Cream,Face Care,4.22,2.13,139
+1258,Pure Mascara 100ml,Mascara,Makeup,17.57,9.48,113
+1259,Luxe Mascara 250ml,Mascara,Makeup,10.19,4.98,102
+1260,Nourish Mascara 50ml,Mascara,Makeup,5.95,2.59,130
+1261,Velvet Body Scrub 100ml,Body Scrub,Body Care,24.19,12.59,124
+1262,Hydra Body Lotion 100ml,Body Lotion,Body Care,7.57,4.62,139
+1263,Soothing Nail Clippers 75ml,Nail Clippers,Nail Tools,56.75,26.83,126
+1264,Soothing Nail Brush 30ml,Nail Brush,Nail Tools,48.08,27.27,112
+1265,Calming Base Coat 75ml,Base Coat,Nail Care,9.17,4.26,127
+1266,Glow Toner 75ml,Toner,Face Care,8.73,5.07,115
+1267,Luxe Hair Mask 150ml,Hair Mask,Hair Mask,28.18,14.22,106
+1268,Calming Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,37.12,17.93,110
+1269,Clarifying Foundation 250ml,Foundation,Makeup,13.45,7.26,111
+1270,Luxe Face Serum 50ml,Face Serum,Face Care,35.97,15.73,112
+1271,Radiant Mascara 30ml,Mascara,Makeup,62.27,38.82,105
+1272,Luxe Body Lotion 250ml,Body Lotion,Body Care,21.41,10.62,120
+1273,Gentle Conditioner 75ml,Conditioner,Conditioner,7.22,4.68,117
+1274,Balance Conditioner 100ml,Conditioner,Conditioner,30.83,20.67,122
+1275,Velvet Blush 75ml,Blush,Makeup,18.44,12.52,121
+1276,Silk Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,12.71,5.55,112
+1277,Clarifying Shampoo 200ml,Shampoo,Shampoo,30.01,13.3,128
+1278,Fresh Face Cleanser 75ml,Face Cleanser,Face Care,43.19,30.03,130
+1279,Calming Nail File 200ml,Nail File,Nail Tools,19.08,10.99,118
+1280,Pure Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,2.66,1.09,119
+1281,Calming Nail Polish 75ml,Nail Polish,Nail Care,18.1,11.82,127
+1282,Soothing Lipstick 50ml,Lipstick,Makeup,19.72,13.0,122
+1283,Revive Toner 200ml,Toner,Face Care,130.16,52.56,138
+1284,Calming Lip Balm 100ml,Lip Balm,Makeup,18.24,10.46,119
+1285,Repair Mascara 75ml,Mascara,Makeup,14.34,5.87,114
+1286,Nourish Nail Strengthener 250ml,Nail Strengthener,Nail Care,28.56,17.14,120
+1287,Luxe Conditioner 75ml,Conditioner,Conditioner,12.93,8.09,113
+1288,Repair Toner 150ml,Toner,Face Care,9.5,5.76,138
+1289,Repair Hair Mask 50ml,Hair Mask,Hair Mask,4.59,2.67,130
+1290,Radiant Hair Mask 50ml,Hair Mask,Hair Mask,10.21,6.69,105
+1291,Radiant Scalp Serum 50ml,Scalp Serum,Hair Treatment,3.57,2.11,125
+1292,Calming Nail Strengthener 100ml,Nail Strengthener,Nail Care,20.63,13.6,114
+1293,Glow Hand Cream 200ml,Hand Cream,Hand Care,19.54,11.21,115
+1294,Revive Nail Clippers 150ml,Nail Clippers,Nail Tools,28.71,17.02,112
+1295,Soothing Lipstick 150ml,Lipstick,Makeup,7.21,3.69,116
+1296,Fresh Dry Shampoo 100ml,Dry Shampoo,Shampoo,5.2,2.74,106
+1297,Silk Face Cream 200ml,Face Cream,Face Care,85.28,53.18,125
+1298,Glow Mascara 75ml,Mascara,Makeup,15.44,9.52,123
+1299,Clarifying BB Cream 30ml,BB Cream,Face Care,28.78,18.37,112
+1300,Balance Nail Brush 50ml,Nail Brush,Nail Tools,18.29,9.1,111
+1301,Silk Face Serum 75ml,Face Serum,Face Care,29.84,19.5,111
+1302,Revive Lip Balm 50ml,Lip Balm,Makeup,19.74,11.94,136
+1303,Revive Face Cream 50ml,Face Cream,Face Care,8.66,5.56,127
+1304,Radiant Face Serum 75ml,Face Serum,Face Care,25.37,14.78,117
+1305,Calming Top Coat 200ml,Top Coat,Nail Care,20.97,11.78,127
+1306,Fresh Lip Balm 200ml,Lip Balm,Makeup,4.28,2.66,111
+1307,Repair Nail Clippers 30ml,Nail Clippers,Nail Tools,20.81,11.43,133
+1308,Silk Blush 150ml,Blush,Makeup,12.07,5.76,140
+1309,Soothing Lipstick 50ml,Lipstick,Makeup,9.65,4.56,116
+1310,Revive Hand Cream 30ml,Hand Cream,Hand Care,35.88,19.8,129
+1311,Botanical Cuticle Oil 250ml,Cuticle Oil,Nail Care,15.53,9.63,115
+1312,Repair Toner 250ml,Toner,Face Care,15.91,6.59,113
+1313,Calming Lip Balm 200ml,Lip Balm,Makeup,17.66,10.76,100
+1314,Luxe Dry Shampoo 250ml,Dry Shampoo,Shampoo,16.02,10.08,138
+1315,Calming Face Cream 200ml,Face Cream,Face Care,15.21,7.8,134
+1316,Balance Dry Shampoo 100ml,Dry Shampoo,Shampoo,52.71,22.67,121
+1317,Calming Hair Mask 100ml,Hair Mask,Hair Mask,9.51,4.04,107
+1318,Luxe BB Cream 75ml,BB Cream,Face Care,4.1,2.24,109
+1319,Luxe Scalp Serum 100ml,Scalp Serum,Hair Treatment,17.04,10.4,136
+1320,Botanical Nail Strengthener 100ml,Nail Strengthener,Nail Care,7.76,4.74,126
+1321,Radiant Hair Serum 30ml,Hair Serum,Hair Treatment,6.84,4.23,127
+1322,Bright Face Serum 50ml,Face Serum,Face Care,16.24,7.09,130
+1323,Silk Hand Cream 250ml,Hand Cream,Hand Care,20.49,13.82,106
+1324,Hydra Blush 50ml,Blush,Makeup,14.31,7.53,115
+1325,Repair Lip Balm 100ml,Lip Balm,Makeup,11.41,5.69,124
+1326,Glow Cuticle Oil 100ml,Cuticle Oil,Nail Care,14.01,7.55,130
+1327,Luxe Hair Serum 75ml,Hair Serum,Hair Treatment,15.79,9.64,112
+1328,Fresh Mascara 150ml,Mascara,Makeup,16.41,6.91,123
+1329,Velvet Face Cleanser 250ml,Face Cleanser,Face Care,3.92,2.7,128
+1330,Luxe BB Cream 30ml,BB Cream,Face Care,33.09,17.83,121
+1331,Balance Nail File 200ml,Nail File,Nail Tools,5.12,3.54,130
+1332,Luxe Face Serum 50ml,Face Serum,Face Care,9.61,5.63,119
+1333,Nourish Face Cream 200ml,Face Cream,Face Care,4.74,3.11,105
+1334,Bright Conditioner 200ml,Conditioner,Conditioner,18.8,11.26,118
+1335,Velvet Foundation 30ml,Foundation,Makeup,9.31,5.07,132
+1336,Calming Lipstick 50ml,Lipstick,Makeup,14.2,7.69,111
+1337,Hydra Nail Brush 30ml,Nail Brush,Nail Tools,9.08,4.7,122
+1338,Radiant Toner 30ml,Toner,Face Care,7.08,3.94,104
+1339,Silk Cuticle Oil 100ml,Cuticle Oil,Nail Care,2.21,1.4,107
+1340,Repair Face Cleanser 100ml,Face Cleanser,Face Care,10.25,5.25,108
+1341,Repair Face Cleanser 100ml,Face Cleanser,Face Care,6.25,3.26,109
+1342,Gentle Face Cream 250ml,Face Cream,Face Care,24.92,14.8,126
+1343,Radiant Mascara 75ml,Mascara,Makeup,86.9,38.05,119
+1344,Silk Blush 75ml,Blush,Makeup,71.09,48.86,116
+1345,Balance Dry Shampoo 250ml,Dry Shampoo,Shampoo,15.41,8.39,132
+1346,Pure Nail File 250ml,Nail File,Nail Tools,8.73,3.64,113
+1347,Calming Dry Shampoo 50ml,Dry Shampoo,Shampoo,3.46,1.68,114
+1348,Bright Body Scrub 50ml,Body Scrub,Body Care,11.76,5.11,133
+1349,Revive Dry Shampoo 200ml,Dry Shampoo,Shampoo,7.93,3.83,136
+1350,Fresh Face Serum 100ml,Face Serum,Face Care,9.12,5.49,119
+1351,Repair Lipstick 250ml,Lipstick,Makeup,4.46,2.7,111
+1352,Gentle Shampoo 75ml,Shampoo,Shampoo,28.85,13.95,110
+1353,Clarifying Hair Oil 30ml,Hair Oil,Hair Treatment,24.71,14.6,118
+1354,Radiant Face Cleanser 100ml,Face Cleanser,Face Care,7.91,3.52,131
+1355,Botanical Body Wash 100ml,Body Wash,Body Care,32.61,15.21,106
+1356,Calming Face Cleanser 150ml,Face Cleanser,Face Care,17.25,11.93,107
+1357,Radiant Lip Balm 200ml,Lip Balm,Makeup,25.13,14.38,129
+1358,Silk Blush 250ml,Blush,Makeup,30.55,12.89,101
+1359,Hydra Nail Brush 30ml,Nail Brush,Nail Tools,22.02,13.89,122
+1360,Pure Hair Serum 250ml,Hair Serum,Hair Treatment,8.53,5.82,109
+1361,Bright Face Serum 75ml,Face Serum,Face Care,38.07,19.03,116
+1362,Radiant Top Coat 200ml,Top Coat,Nail Care,30.51,15.75,124
+1363,Pure Scalp Serum 50ml,Scalp Serum,Hair Treatment,30.87,12.68,138
+1364,Bright Face Cleanser 75ml,Face Cleanser,Face Care,5.68,3.34,124
+1365,Fresh Base Coat 30ml,Base Coat,Nail Care,5.09,2.62,105
+1366,Clarifying Lip Balm 75ml,Lip Balm,Makeup,55.16,27.91,141
+1367,Repair Face Cream 250ml,Face Cream,Face Care,9.87,6.24,107
+1368,Velvet Hair Mask 75ml,Hair Mask,Hair Mask,20.12,10.86,134
+1369,Nourish Hair Oil 250ml,Hair Oil,Hair Treatment,43.17,19.03,121
+1370,Pure Scalp Serum 200ml,Scalp Serum,Hair Treatment,60.73,30.7,121
+1371,Nourish Hair Serum 100ml,Hair Serum,Hair Treatment,26.03,11.54,121
+1372,Fresh Lipstick 30ml,Lipstick,Makeup,10.83,7.52,139
+1373,Fresh Toner 100ml,Toner,Face Care,13.07,6.51,125
+1374,Clarifying Hair Serum 75ml,Hair Serum,Hair Treatment,22.12,14.3,152
+1375,Calming Nail File 50ml,Nail File,Nail Tools,18.91,10.58,113
+1376,Clarifying Dry Shampoo 250ml,Dry Shampoo,Shampoo,9.27,6.2,145
+1377,Balance Foundation 100ml,Foundation,Makeup,1.97,1.12,122
+1378,Hydra Hair Oil 100ml,Hair Oil,Hair Treatment,9.13,5.75,112
+1379,Bright Hair Mask 200ml,Hair Mask,Hair Mask,13.87,5.91,115
+1380,Velvet Hair Serum 250ml,Hair Serum,Hair Treatment,16.32,8.99,139
+1381,Fresh Body Scrub 50ml,Body Scrub,Body Care,64.42,40.99,139
+1382,Revive Top Coat 50ml,Top Coat,Nail Care,38.62,25.46,103
+1383,Calming Mascara 250ml,Mascara,Makeup,11.37,7.94,129
+1384,Revive Body Wash 150ml,Body Wash,Body Care,24.61,14.63,108
+1385,Gentle Conditioner 75ml,Conditioner,Conditioner,1.95,0.83,123
+1386,Radiant Cuticle Oil 200ml,Cuticle Oil,Nail Care,43.85,29.94,119
+1387,Soothing Nail Brush 150ml,Nail Brush,Nail Tools,11.06,6.02,116
+1388,Luxe Face Cream 75ml,Face Cream,Face Care,19.1,8.37,120
+1389,Nourish Nail File 200ml,Nail File,Nail Tools,16.84,10.68,121
+1390,Pure Nail File 30ml,Nail File,Nail Tools,37.37,18.96,116
+1391,Silk Hair Oil 250ml,Hair Oil,Hair Treatment,12.44,8.0,137
+1392,Botanical Hair Oil 75ml,Hair Oil,Hair Treatment,31.76,13.9,127
+1393,Clarifying Hair Mask 30ml,Hair Mask,Hair Mask,22.02,14.24,137
+1394,Repair Toner 30ml,Toner,Face Care,18.14,9.42,138
+1395,Radiant Nail Strengthener 75ml,Nail Strengthener,Nail Care,15.08,9.04,136
+1396,Repair BB Cream 50ml,BB Cream,Face Care,10.94,5.89,127
+1397,Repair Face Cream 50ml,Face Cream,Face Care,14.4,5.82,121
+1398,Botanical Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,12.11,8.21,139
+1399,Pure Nail File 250ml,Nail File,Nail Tools,22.99,9.67,126
+1400,Repair Nail File 50ml,Nail File,Nail Tools,6.64,3.14,115
+1401,Fresh Nail Strengthener 100ml,Nail Strengthener,Nail Care,17.42,9.17,110
+1402,Bright Hair Serum 50ml,Hair Serum,Hair Treatment,55.31,29.01,108
+1403,Velvet Scalp Serum 100ml,Scalp Serum,Hair Treatment,11.57,8.0,111
+1404,Soothing Toner 100ml,Toner,Face Care,23.35,16.15,136
+1405,Glow Face Cleanser 250ml,Face Cleanser,Face Care,2.56,1.05,118
+1406,Pure Top Coat 250ml,Top Coat,Nail Care,4.64,2.53,102
+1407,Velvet Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,14.78,8.65,112
+1408,Bright Conditioner 100ml,Conditioner,Conditioner,15.48,8.09,113
+1409,Revive Conditioner 150ml,Conditioner,Conditioner,17.0,8.37,120
+1410,Velvet Scalp Serum 75ml,Scalp Serum,Hair Treatment,94.88,55.07,122
+1411,Botanical Nail Brush 30ml,Nail Brush,Nail Tools,10.32,6.88,113
+1412,Clarifying Cuticle Oil 150ml,Cuticle Oil,Nail Care,17.59,9.35,112
+1413,Radiant Lipstick 50ml,Lipstick,Makeup,9.27,3.75,117
+1414,Silk Face Cream 200ml,Face Cream,Face Care,29.65,18.92,120
+1415,Hydra Hand Cream 150ml,Hand Cream,Hand Care,6.55,3.63,111
+1416,Hydra Dry Shampoo 75ml,Dry Shampoo,Shampoo,9.4,4.67,118
+1417,Bright Mascara 250ml,Mascara,Makeup,8.0,5.47,123
+1418,Repair Face Cleanser 30ml,Face Cleanser,Face Care,31.78,21.29,140
+1419,Luxe Shampoo 150ml,Shampoo,Shampoo,18.19,12.51,111
+1420,Silk Base Coat 30ml,Base Coat,Nail Care,20.63,9.92,120
+1421,Radiant Dry Shampoo 250ml,Dry Shampoo,Shampoo,14.08,6.79,136
+1422,Glow Hair Oil 150ml,Hair Oil,Hair Treatment,43.27,23.3,106
+1423,Revive Nail Strengthener 150ml,Nail Strengthener,Nail Care,14.53,8.5,106
+1424,Calming Nail Brush 75ml,Nail Brush,Nail Tools,79.22,37.37,133
+1425,Hydra Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,45.4,28.87,123
+1426,Radiant Blush 50ml,Blush,Makeup,5.05,3.24,128
+1427,Repair Nail Brush 150ml,Nail Brush,Nail Tools,27.41,12.08,112
+1428,Revive Hand Cream 50ml,Hand Cream,Hand Care,45.34,27.39,116
+1429,Bright Nail Clippers 200ml,Nail Clippers,Nail Tools,11.87,6.68,105
+1430,Calming Shampoo 100ml,Shampoo,Shampoo,22.85,10.01,114
+1431,Glow Foundation 100ml,Foundation,Makeup,5.04,3.04,124
+1432,Revive Nail Clippers 200ml,Nail Clippers,Nail Tools,7.41,3.91,104
+1433,Glow Nail Polish 30ml,Nail Polish,Nail Care,13.45,6.96,121
+1434,Nourish Lip Balm 50ml,Lip Balm,Makeup,5.56,3.8,129
+1435,Soothing Face Serum 200ml,Face Serum,Face Care,17.19,7.91,102
+1436,Fresh Cuticle Oil 250ml,Cuticle Oil,Nail Care,27.67,16.31,130
+1437,Luxe BB Cream 75ml,BB Cream,Face Care,7.9,3.92,137
+1438,Fresh Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,5.63,3.68,102
+1439,Silk Face Serum 100ml,Face Serum,Face Care,4.65,2.7,118
+1440,Glow Lipstick 250ml,Lipstick,Makeup,43.38,17.46,124
+1441,Hydra Scalp Serum 30ml,Scalp Serum,Hair Treatment,4.08,2.02,114
+1442,Hydra Base Coat 200ml,Base Coat,Nail Care,20.84,14.32,123
+1443,Luxe Top Coat 30ml,Top Coat,Nail Care,46.75,23.06,137
+1444,Luxe Lipstick 250ml,Lipstick,Makeup,7.52,4.75,111
+1445,Calming Hand Cream 75ml,Hand Cream,Hand Care,8.37,4.3,131
+1446,Nourish Toner 75ml,Toner,Face Care,18.93,9.58,100
+1447,Hydra Nail File 75ml,Nail File,Nail Tools,19.94,12.52,121
+1448,Clarifying Body Scrub 100ml,Body Scrub,Body Care,11.04,5.3,110
+1449,Glow Face Serum 100ml,Face Serum,Face Care,12.97,7.71,122
+1450,Balance BB Cream 75ml,BB Cream,Face Care,17.68,8.81,129
+1451,Luxe Nail Strengthener 150ml,Nail Strengthener,Nail Care,11.9,5.29,102
+1452,Pure Dry Shampoo 100ml,Dry Shampoo,Shampoo,12.23,7.43,105
+1453,Repair Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,77.78,32.07,129
+1454,Fresh Shampoo 75ml,Shampoo,Shampoo,36.99,25.53,112
+1455,Gentle Blush 200ml,Blush,Makeup,39.39,22.46,111
+1456,Glow Dry Shampoo 50ml,Dry Shampoo,Shampoo,12.52,7.23,128
+1457,Calming Hair Oil 50ml,Hair Oil,Hair Treatment,4.16,2.15,134
+1458,Soothing Shampoo 250ml,Shampoo,Shampoo,119.21,69.57,123
+1459,Calming Nail Polish 150ml,Nail Polish,Nail Care,10.04,4.91,126
+1460,Clarifying Body Wash 50ml,Body Wash,Body Care,21.06,12.4,133
+1461,Calming Face Cream 200ml,Face Cream,Face Care,30.78,18.2,118
+1462,Botanical Blush 30ml,Blush,Makeup,10.34,4.26,126
+1463,Repair Nail Strengthener 200ml,Nail Strengthener,Nail Care,33.82,17.42,111
+1464,Nourish Dry Shampoo 30ml,Dry Shampoo,Shampoo,16.56,8.52,118
+1465,Nourish Body Lotion 50ml,Body Lotion,Body Care,13.32,7.61,126
+1466,Hydra Top Coat 30ml,Top Coat,Nail Care,10.33,7.18,129
+1467,Pure Base Coat 50ml,Base Coat,Nail Care,7.41,4.07,117
+1468,Repair Foundation 30ml,Foundation,Makeup,3.71,2.12,119
+1469,Bright Body Scrub 30ml,Body Scrub,Body Care,156.18,74.3,125
+1470,Velvet Hair Serum 100ml,Hair Serum,Hair Treatment,52.77,21.92,122
+1471,Pure Hair Serum 250ml,Hair Serum,Hair Treatment,17.86,11.18,118
+1472,Revive Body Scrub 30ml,Body Scrub,Body Care,57.28,39.94,130
+1473,Botanical Lipstick 200ml,Lipstick,Makeup,51.59,27.79,136
+1474,Silk Nail Brush 30ml,Nail Brush,Nail Tools,26.5,14.79,124
+1475,Velvet Lipstick 250ml,Lipstick,Makeup,12.48,5.51,113
+1476,Hydra Scalp Serum 250ml,Scalp Serum,Hair Treatment,38.83,24.95,136
+1477,Radiant Scalp Serum 200ml,Scalp Serum,Hair Treatment,34.02,20.11,115
+1478,Balance Face Serum 50ml,Face Serum,Face Care,30.97,14.18,106
+1479,Fresh Hair Serum 150ml,Hair Serum,Hair Treatment,12.56,6.03,109
+1480,Pure Dry Shampoo 50ml,Dry Shampoo,Shampoo,22.27,12.28,102
+1481,Gentle Face Cleanser 75ml,Face Cleanser,Face Care,20.47,9.75,108
+1482,Bright Nail Brush 50ml,Nail Brush,Nail Tools,12.13,6.78,111
+1483,Balance Body Scrub 100ml,Body Scrub,Body Care,22.11,10.6,119
+1484,Silk Hair Mask 30ml,Hair Mask,Hair Mask,44.8,25.76,118
+1485,Repair Toner 250ml,Toner,Face Care,55.73,23.74,123
+1486,Balance Cuticle Oil 250ml,Cuticle Oil,Nail Care,24.52,14.61,123
+1487,Repair Top Coat 200ml,Top Coat,Nail Care,14.4,8.1,127
+1488,Luxe BB Cream 250ml,BB Cream,Face Care,32.58,15.36,133
+1489,Repair Mascara 100ml,Mascara,Makeup,8.19,5.69,97
+1490,Gentle Body Wash 30ml,Body Wash,Body Care,12.16,6.85,119
+1491,Gentle Body Wash 200ml,Body Wash,Body Care,45.61,31.11,125
+1492,Calming Nail Polish 30ml,Nail Polish,Nail Care,73.51,49.1,133
+1493,Bright Dry Shampoo 75ml,Dry Shampoo,Shampoo,40.93,22.98,127
+1494,Glow Scalp Serum 250ml,Scalp Serum,Hair Treatment,15.41,6.31,126
+1495,Silk Body Scrub 250ml,Body Scrub,Body Care,2.85,1.3,123
+1496,Luxe Cuticle Oil 250ml,Cuticle Oil,Nail Care,30.79,20.29,101
+1497,Radiant Top Coat 150ml,Top Coat,Nail Care,25.0,12.44,129
+1498,Pure Scalp Serum 75ml,Scalp Serum,Hair Treatment,25.58,17.87,138
+1499,Bright Hair Oil 150ml,Hair Oil,Hair Treatment,5.22,3.54,114
+1500,Velvet Base Coat 200ml,Base Coat,Nail Care,12.62,7.15,114
+1501,Botanical Cuticle Oil 75ml,Cuticle Oil,Nail Care,73.13,32.22,138
+1502,Pure Face Cream 200ml,Face Cream,Face Care,7.25,4.56,119
+1503,Clarifying Blush 100ml,Blush,Makeup,26.12,13.33,121
+1504,Pure Shampoo 100ml,Shampoo,Shampoo,9.73,5.47,117
+1505,Pure Body Wash 100ml,Body Wash,Body Care,24.68,14.05,132
+1506,Soothing Nail Polish 30ml,Nail Polish,Nail Care,14.02,6.3,112
+1507,Balance Conditioner 75ml,Conditioner,Conditioner,43.17,25.05,130
+1508,Silk Hair Oil 200ml,Hair Oil,Hair Treatment,17.0,11.64,133
+1509,Clarifying Lip Balm 100ml,Lip Balm,Makeup,36.44,18.58,111
+1510,Pure Shampoo 100ml,Shampoo,Shampoo,89.03,47.94,123
+1511,Pure Lipstick 200ml,Lipstick,Makeup,36.19,22.98,114
+1512,Hydra Face Cream 75ml,Face Cream,Face Care,26.08,11.59,111
+1513,Luxe Mascara 150ml,Mascara,Makeup,41.51,18.46,109
+1514,Fresh Face Cream 100ml,Face Cream,Face Care,25.79,16.67,120
+1515,Repair Body Lotion 250ml,Body Lotion,Body Care,10.11,5.03,124
+1516,Gentle Blush 100ml,Blush,Makeup,8.36,4.24,110
+1517,Silk Shampoo 100ml,Shampoo,Shampoo,28.56,12.85,110
+1518,Radiant Body Scrub 50ml,Body Scrub,Body Care,9.97,5.18,114
+1519,Radiant Cuticle Oil 75ml,Cuticle Oil,Nail Care,9.23,4.31,136
+1520,Botanical Lipstick 75ml,Lipstick,Makeup,14.12,9.64,128
+1521,Luxe Base Coat 100ml,Base Coat,Nail Care,4.13,1.94,115
+1522,Gentle Lipstick 200ml,Lipstick,Makeup,9.75,6.16,113
+1523,Clarifying Conditioner 75ml,Conditioner,Conditioner,9.13,5.84,131
+1524,Radiant Scalp Serum 200ml,Scalp Serum,Hair Treatment,117.87,75.9,117
+1525,Luxe Body Lotion 250ml,Body Lotion,Body Care,29.99,15.7,120
+1526,Radiant BB Cream 250ml,BB Cream,Face Care,11.74,7.09,135
+1527,Silk Top Coat 200ml,Top Coat,Nail Care,8.9,5.58,122
+1528,Gentle Scalp Serum 150ml,Scalp Serum,Hair Treatment,2.34,0.99,114
+1529,Calming Dry Shampoo 30ml,Dry Shampoo,Shampoo,5.1,2.48,129
+1530,Bright Base Coat 50ml,Base Coat,Nail Care,4.36,2.17,112
+1531,Fresh Cuticle Oil 50ml,Cuticle Oil,Nail Care,7.53,4.08,118
+1532,Gentle Nail Brush 150ml,Nail Brush,Nail Tools,16.31,6.83,116
+1533,Radiant Hand Cream 150ml,Hand Cream,Hand Care,14.15,6.93,114
+1534,Botanical Hair Oil 250ml,Hair Oil,Hair Treatment,8.05,4.71,143
+1535,Revive Body Wash 150ml,Body Wash,Body Care,15.79,7.22,107
+1536,Revive Body Wash 30ml,Body Wash,Body Care,5.23,3.12,104
+1537,Revive Body Lotion 250ml,Body Lotion,Body Care,23.46,11.38,97
+1538,Bright Hair Serum 150ml,Hair Serum,Hair Treatment,30.3,19.07,124
+1539,Balance Body Scrub 75ml,Body Scrub,Body Care,24.39,16.06,108
+1540,Velvet Toner 250ml,Toner,Face Care,39.45,26.37,117
+1541,Botanical Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,4.88,2.02,114
+1542,Fresh Nail Strengthener 50ml,Nail Strengthener,Nail Care,16.98,9.31,130
+1543,Silk Blush 50ml,Blush,Makeup,7.67,3.8,119
+1544,Gentle Nail Brush 75ml,Nail Brush,Nail Tools,6.54,4.13,138
+1545,Clarifying Lip Balm 30ml,Lip Balm,Makeup,5.3,2.15,109
+1546,Balance Mascara 200ml,Mascara,Makeup,119.43,61.86,116
+1547,Velvet Nail Brush 100ml,Nail Brush,Nail Tools,34.09,18.19,112
+1548,Silk Foundation 50ml,Foundation,Makeup,60.22,27.41,135
+1549,Calming Base Coat 200ml,Base Coat,Nail Care,21.81,11.4,126
+1550,Pure Body Scrub 100ml,Body Scrub,Body Care,8.48,4.11,140
+1551,Gentle Base Coat 200ml,Base Coat,Nail Care,28.15,13.94,115
+1552,Balance Face Serum 200ml,Face Serum,Face Care,107.14,68.03,108
+1553,Revive Foundation 200ml,Foundation,Makeup,25.02,12.45,127
+1554,Fresh Cuticle Oil 50ml,Cuticle Oil,Nail Care,15.03,6.85,115
+1555,Glow Body Wash 30ml,Body Wash,Body Care,20.44,12.32,98
+1556,Velvet Nail Strengthener 75ml,Nail Strengthener,Nail Care,40.14,23.91,123
+1557,Clarifying Body Wash 200ml,Body Wash,Body Care,16.23,9.12,113
+1558,Revive Face Cream 150ml,Face Cream,Face Care,14.98,9.09,105
+1559,Radiant Lipstick 50ml,Lipstick,Makeup,9.56,6.44,117
+1560,Soothing Nail Clippers 75ml,Nail Clippers,Nail Tools,21.84,12.47,109
+1561,Luxe Nail File 75ml,Nail File,Nail Tools,5.96,2.84,128
+1562,Hydra Hair Mask 50ml,Hair Mask,Hair Mask,12.09,7.62,118
+1563,Calming Hair Oil 250ml,Hair Oil,Hair Treatment,14.84,6.76,123
+1564,Revive Conditioner 50ml,Conditioner,Conditioner,7.04,4.24,117
+1565,Fresh Mascara 100ml,Mascara,Makeup,16.15,9.09,127
+1566,Bright Shampoo 250ml,Shampoo,Shampoo,35.26,23.75,133
+1567,Revive Hair Oil 50ml,Hair Oil,Hair Treatment,52.48,33.04,110
+1568,Silk Hair Mask 30ml,Hair Mask,Hair Mask,13.61,8.65,120
+1569,Velvet BB Cream 150ml,BB Cream,Face Care,11.43,6.28,126
+1570,Luxe Face Cleanser 250ml,Face Cleanser,Face Care,13.35,8.13,118
+1571,Silk Scalp Serum 75ml,Scalp Serum,Hair Treatment,27.13,17.59,118
+1572,Luxe Nail File 200ml,Nail File,Nail Tools,9.98,5.32,125
+1573,Repair Face Cleanser 30ml,Face Cleanser,Face Care,9.97,6.46,119
+1574,Pure Blush 50ml,Blush,Makeup,20.43,11.12,133
+1575,Revive Hand Cream 150ml,Hand Cream,Hand Care,24.9,16.69,144
+1576,Soothing Dry Shampoo 30ml,Dry Shampoo,Shampoo,19.31,10.51,120
+1577,Velvet Base Coat 30ml,Base Coat,Nail Care,18.16,10.3,122
+1578,Calming BB Cream 100ml,BB Cream,Face Care,11.16,7.64,113
+1579,Balance Hand Cream 100ml,Hand Cream,Hand Care,16.71,7.06,100
+1580,Pure Face Cream 30ml,Face Cream,Face Care,2.44,1.14,128
+1581,Silk Base Coat 75ml,Base Coat,Nail Care,56.82,27.55,118
+1582,Glow Face Cleanser 200ml,Face Cleanser,Face Care,18.71,9.49,110
+1583,Bright Mascara 75ml,Mascara,Makeup,88.52,57.71,114
+1584,Nourish Base Coat 250ml,Base Coat,Nail Care,46.1,25.36,127
+1585,Bright Dry Shampoo 100ml,Dry Shampoo,Shampoo,8.57,3.65,112
+1586,Hydra Hand Cream 75ml,Hand Cream,Hand Care,12.29,6.75,109
+1587,Clarifying Nail Polish 200ml,Nail Polish,Nail Care,6.81,3.57,118
+1588,Balance Mascara 75ml,Mascara,Makeup,9.62,6.13,112
+1589,Balance Mascara 150ml,Mascara,Makeup,4.71,3.28,116
+1590,Pure Lipstick 75ml,Lipstick,Makeup,7.85,3.21,117
+1591,Radiant Cuticle Oil 200ml,Cuticle Oil,Nail Care,7.18,4.6,99
+1592,Pure Toner 150ml,Toner,Face Care,33.29,20.77,118
+1593,Luxe Nail File 150ml,Nail File,Nail Tools,4.5,2.83,109
+1594,Calming Mascara 100ml,Mascara,Makeup,97.58,54.4,114
+1595,Hydra Shampoo 250ml,Shampoo,Shampoo,12.71,6.19,116
+1596,Revive Hair Mask 75ml,Hair Mask,Hair Mask,48.31,22.53,102
+1597,Fresh Body Wash 100ml,Body Wash,Body Care,7.6,3.74,119
+1598,Gentle Conditioner 50ml,Conditioner,Conditioner,30.65,18.39,107
+1599,Repair Hand Cream 200ml,Hand Cream,Hand Care,5.08,2.1,120
+1600,Hydra Top Coat 250ml,Top Coat,Nail Care,5.06,2.87,128
+1601,Velvet Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,39.47,20.0,118
+1602,Bright Nail Brush 250ml,Nail Brush,Nail Tools,14.92,8.85,106
+1603,Pure Nail Strengthener 250ml,Nail Strengthener,Nail Care,14.03,7.92,118
+1604,Botanical Hair Oil 250ml,Hair Oil,Hair Treatment,7.37,5.11,113
+1605,Clarifying BB Cream 100ml,BB Cream,Face Care,8.19,4.85,134
+1606,Fresh Lip Balm 100ml,Lip Balm,Makeup,4.59,2.76,117
+1607,Soothing Nail Strengthener 75ml,Nail Strengthener,Nail Care,10.82,6.4,111
+1608,Repair Hand Cream 250ml,Hand Cream,Hand Care,20.19,10.16,108
+1609,Silk Nail Brush 150ml,Nail Brush,Nail Tools,17.52,10.44,113
+1610,Botanical Body Wash 250ml,Body Wash,Body Care,17.67,10.49,123
+1611,Bright Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,3.18,2.17,116
+1612,Nourish Dry Shampoo 50ml,Dry Shampoo,Shampoo,19.25,10.73,106
+1613,Hydra Lipstick 50ml,Lipstick,Makeup,12.74,8.7,130
+1614,Luxe Cuticle Oil 100ml,Cuticle Oil,Nail Care,8.77,4.54,127
+1615,Bright Leave-in Treatment 50ml,Leave-in Treatment,Hair Treatment,6.12,3.12,141
+1616,Luxe Face Cleanser 200ml,Face Cleanser,Face Care,27.97,15.1,126
+1617,Luxe Conditioner 150ml,Conditioner,Conditioner,3.0,1.75,126
+1618,Revive Cuticle Oil 200ml,Cuticle Oil,Nail Care,6.13,3.58,111
+1619,Luxe Hair Serum 250ml,Hair Serum,Hair Treatment,18.5,12.65,117
+1620,Revive Base Coat 250ml,Base Coat,Nail Care,10.9,7.4,112
+1621,Radiant Hair Serum 100ml,Hair Serum,Hair Treatment,22.25,11.42,115
+1622,Silk Hair Oil 50ml,Hair Oil,Hair Treatment,17.76,9.75,120
+1623,Silk Hair Serum 75ml,Hair Serum,Hair Treatment,9.55,5.31,123
+1624,Gentle Toner 200ml,Toner,Face Care,4.25,2.68,124
+1625,Repair Conditioner 30ml,Conditioner,Conditioner,30.04,19.86,107
+1626,Balance Scalp Serum 150ml,Scalp Serum,Hair Treatment,14.32,9.77,128
+1627,Repair Lip Balm 100ml,Lip Balm,Makeup,5.74,3.47,136
+1628,Balance Lip Balm 150ml,Lip Balm,Makeup,3.07,2.14,108
+1629,Luxe Nail Strengthener 250ml,Nail Strengthener,Nail Care,21.46,14.99,116
+1630,Hydra Lip Balm 150ml,Lip Balm,Makeup,9.89,4.28,146
+1631,Clarifying Hair Oil 250ml,Hair Oil,Hair Treatment,6.58,3.22,122
+1632,Glow Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,42.2,24.45,120
+1633,Glow Foundation 150ml,Foundation,Makeup,3.67,2.34,130
+1634,Pure Toner 150ml,Toner,Face Care,13.47,7.46,127
+1635,Repair Nail Clippers 75ml,Nail Clippers,Nail Tools,29.36,12.67,106
+1636,Bright Base Coat 200ml,Base Coat,Nail Care,24.31,14.8,98
+1637,Balance Nail Brush 30ml,Nail Brush,Nail Tools,5.8,2.69,102
+1638,Revive Hair Serum 75ml,Hair Serum,Hair Treatment,47.18,31.08,120
+1639,Glow Hair Mask 50ml,Hair Mask,Hair Mask,51.21,33.07,114
+1640,Pure Lipstick 200ml,Lipstick,Makeup,37.32,16.97,122
+1641,Bright Hand Cream 250ml,Hand Cream,Hand Care,8.22,3.64,142
+1642,Luxe Shampoo 250ml,Shampoo,Shampoo,13.73,6.34,127
+1643,Repair BB Cream 75ml,BB Cream,Face Care,44.99,25.03,122
+1644,Revive Base Coat 75ml,Base Coat,Nail Care,23.46,14.37,125
+1645,Calming BB Cream 30ml,BB Cream,Face Care,9.87,6.26,112
+1646,Revive Shampoo 50ml,Shampoo,Shampoo,13.87,5.92,127
+1647,Fresh Face Serum 200ml,Face Serum,Face Care,4.86,3.26,115
+1648,Revive Nail File 75ml,Nail File,Nail Tools,41.24,25.21,113
+1649,Botanical Foundation 75ml,Foundation,Makeup,15.16,10.0,117
+1650,Fresh Conditioner 250ml,Conditioner,Conditioner,66.31,39.33,113
+1651,Luxe Nail File 50ml,Nail File,Nail Tools,3.82,2.5,114
+1652,Calming Nail Clippers 200ml,Nail Clippers,Nail Tools,7.56,4.2,115
+1653,Luxe Nail File 100ml,Nail File,Nail Tools,15.76,7.21,137
+1654,Balance Nail Brush 250ml,Nail Brush,Nail Tools,100.39,51.16,107
+1655,Bright Face Serum 75ml,Face Serum,Face Care,17.5,10.2,137
+1656,Calming Shampoo 150ml,Shampoo,Shampoo,8.95,5.48,123
+1657,Balance Shampoo 50ml,Shampoo,Shampoo,16.68,9.14,125
+1658,Radiant Face Cream 100ml,Face Cream,Face Care,9.58,5.3,127
+1659,Velvet Lip Balm 100ml,Lip Balm,Makeup,35.06,21.89,121
+1660,Soothing Base Coat 30ml,Base Coat,Nail Care,32.76,21.85,114
+1661,Radiant Face Cleanser 50ml,Face Cleanser,Face Care,59.63,36.74,120
+1662,Radiant Toner 200ml,Toner,Face Care,4.42,2.65,113
+1663,Nourish Hand Cream 75ml,Hand Cream,Hand Care,3.88,2.49,120
+1664,Nourish Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,13.65,9.24,93
+1665,Silk Nail Strengthener 50ml,Nail Strengthener,Nail Care,31.58,18.73,125
+1666,Balance Nail File 30ml,Nail File,Nail Tools,37.33,24.82,100
+1667,Fresh Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,19.93,13.32,114
+1668,Soothing Conditioner 30ml,Conditioner,Conditioner,31.54,18.65,131
+1669,Radiant Nail File 30ml,Nail File,Nail Tools,55.26,27.04,129
+1670,Glow Nail Brush 50ml,Nail Brush,Nail Tools,8.76,3.55,117
+1671,Nourish Foundation 150ml,Foundation,Makeup,53.18,26.5,108
+1672,Glow Nail Strengthener 250ml,Nail Strengthener,Nail Care,54.49,25.27,119
+1673,Botanical Body Wash 50ml,Body Wash,Body Care,10.57,5.53,132
+1674,Soothing Hand Cream 100ml,Hand Cream,Hand Care,7.7,4.86,125
+1675,Calming Hair Serum 150ml,Hair Serum,Hair Treatment,30.15,19.41,117
+1676,Revive Scalp Serum 200ml,Scalp Serum,Hair Treatment,80.84,35.19,121
+1677,Hydra Dry Shampoo 200ml,Dry Shampoo,Shampoo,8.37,5.84,142
+1678,Revive Nail Polish 50ml,Nail Polish,Nail Care,76.42,53.42,113
+1679,Fresh Hair Oil 100ml,Hair Oil,Hair Treatment,7.63,3.63,118
+1680,Botanical Hair Oil 100ml,Hair Oil,Hair Treatment,13.79,6.27,131
+1681,Luxe Body Wash 30ml,Body Wash,Body Care,6.66,4.26,127
+1682,Luxe Nail Clippers 150ml,Nail Clippers,Nail Tools,23.21,15.41,122
+1683,Hydra Dry Shampoo 200ml,Dry Shampoo,Shampoo,18.33,7.56,108
+1684,Glow Dry Shampoo 200ml,Dry Shampoo,Shampoo,17.11,10.28,123
+1685,Calming Lip Balm 50ml,Lip Balm,Makeup,9.95,5.06,131
+1686,Fresh Toner 150ml,Toner,Face Care,11.68,7.45,105
+1687,Bright Foundation 200ml,Foundation,Makeup,15.59,10.07,116
+1688,Hydra Face Cleanser 50ml,Face Cleanser,Face Care,13.35,8.74,109
+1689,Pure Scalp Serum 150ml,Scalp Serum,Hair Treatment,15.89,10.36,135
+1690,Velvet Face Cleanser 150ml,Face Cleanser,Face Care,4.97,2.02,115
+1691,Repair Body Wash 75ml,Body Wash,Body Care,2.94,1.69,110
+1692,Glow Toner 100ml,Toner,Face Care,21.71,12.32,118
+1693,Balance Lipstick 50ml,Lipstick,Makeup,22.28,14.2,108
+1694,Fresh Body Wash 250ml,Body Wash,Body Care,19.84,12.95,131
+1695,Luxe Face Cream 250ml,Face Cream,Face Care,25.08,14.57,141
+1696,Botanical Foundation 150ml,Foundation,Makeup,11.45,6.5,99
+1697,Soothing Cuticle Oil 50ml,Cuticle Oil,Nail Care,12.41,6.52,117
+1698,Hydra Body Wash 150ml,Body Wash,Body Care,11.22,5.93,112
+1699,Glow Conditioner 75ml,Conditioner,Conditioner,3.86,1.57,105
+1700,Revive Scalp Serum 100ml,Scalp Serum,Hair Treatment,26.04,16.17,115
+1701,Soothing Top Coat 50ml,Top Coat,Nail Care,30.82,13.98,122
+1702,Bright Blush 150ml,Blush,Makeup,34.66,19.19,119
+1703,Silk Body Wash 30ml,Body Wash,Body Care,12.82,7.56,133
+1704,Radiant Nail Clippers 150ml,Nail Clippers,Nail Tools,9.26,6.32,100
+1705,Gentle Nail Clippers 250ml,Nail Clippers,Nail Tools,11.29,5.43,124
+1706,Velvet Face Cream 150ml,Face Cream,Face Care,10.89,6.97,106
+1707,Luxe Body Scrub 30ml,Body Scrub,Body Care,3.31,2.01,114
+1708,Clarifying Hair Mask 75ml,Hair Mask,Hair Mask,20.86,9.68,103
+1709,Radiant Hair Oil 100ml,Hair Oil,Hair Treatment,32.3,19.61,127
+1710,Clarifying Lipstick 75ml,Lipstick,Makeup,19.56,12.56,101
+1711,Fresh Hair Mask 30ml,Hair Mask,Hair Mask,16.74,6.92,129
+1712,Glow Lipstick 250ml,Lipstick,Makeup,9.96,6.57,147
+1713,Silk Hair Serum 150ml,Hair Serum,Hair Treatment,30.25,16.21,112
+1714,Silk Body Scrub 250ml,Body Scrub,Body Care,15.33,8.68,116
+1715,Clarifying Scalp Serum 100ml,Scalp Serum,Hair Treatment,6.2,4.05,129
+1716,Radiant Foundation 75ml,Foundation,Makeup,47.4,19.06,100
+1717,Luxe Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,27.59,17.77,96
+1718,Botanical Hair Oil 150ml,Hair Oil,Hair Treatment,61.8,32.59,121
+1719,Botanical Blush 200ml,Blush,Makeup,41.69,25.55,116
+1720,Repair Lipstick 50ml,Lipstick,Makeup,9.99,5.08,125
+1721,Calming Hair Mask 30ml,Hair Mask,Hair Mask,13.09,6.98,102
+1722,Nourish Hair Oil 50ml,Hair Oil,Hair Treatment,36.94,15.38,141
+1723,Revive Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,6.42,3.65,120
+1724,Hydra Nail Brush 100ml,Nail Brush,Nail Tools,61.85,36.49,122
+1725,Clarifying Hair Serum 150ml,Hair Serum,Hair Treatment,21.37,13.5,117
+1726,Revive Scalp Serum 150ml,Scalp Serum,Hair Treatment,31.89,15.59,128
+1727,Fresh Nail File 50ml,Nail File,Nail Tools,21.29,10.67,100
+1728,Radiant Foundation 150ml,Foundation,Makeup,17.16,10.22,123
+1729,Revive Face Serum 200ml,Face Serum,Face Care,13.04,8.77,125
+1730,Fresh Nail Brush 30ml,Nail Brush,Nail Tools,14.63,6.82,130
+1731,Hydra Shampoo 75ml,Shampoo,Shampoo,1.94,0.78,135
+1732,Clarifying Nail Brush 200ml,Nail Brush,Nail Tools,25.8,12.17,130
+1733,Pure Cuticle Oil 250ml,Cuticle Oil,Nail Care,93.97,49.58,99
+1734,Revive Nail File 100ml,Nail File,Nail Tools,8.47,4.36,110
+1735,Fresh Toner 150ml,Toner,Face Care,5.08,2.55,117
+1736,Soothing Dry Shampoo 30ml,Dry Shampoo,Shampoo,57.69,33.2,110
+1737,Botanical Hair Serum 150ml,Hair Serum,Hair Treatment,22.24,12.94,120
+1738,Silk Nail Polish 250ml,Nail Polish,Nail Care,33.91,20.82,118
+1739,Clarifying Base Coat 250ml,Base Coat,Nail Care,24.6,11.15,106
+1740,Glow Cuticle Oil 150ml,Cuticle Oil,Nail Care,7.83,4.37,123
+1741,Fresh Mascara 250ml,Mascara,Makeup,34.02,14.16,126
+1742,Bright Nail Brush 200ml,Nail Brush,Nail Tools,11.09,6.58,109
+1743,Balance BB Cream 250ml,BB Cream,Face Care,8.49,4.69,109
+1744,Hydra Body Lotion 50ml,Body Lotion,Body Care,27.41,17.29,120
+1745,Revive Hair Oil 75ml,Hair Oil,Hair Treatment,18.88,8.41,116
+1746,Calming Lipstick 250ml,Lipstick,Makeup,22.89,13.62,95
+1747,Repair Face Serum 150ml,Face Serum,Face Care,22.24,11.09,114
+1748,Radiant Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,31.95,14.38,112
+1749,Pure Lip Balm 100ml,Lip Balm,Makeup,46.4,25.21,123
+1750,Fresh Hair Oil 250ml,Hair Oil,Hair Treatment,19.48,8.55,111
+1751,Botanical Base Coat 75ml,Base Coat,Nail Care,52.23,27.37,128
+1752,Repair Body Scrub 100ml,Body Scrub,Body Care,40.66,16.47,114
+1753,Silk Body Wash 75ml,Body Wash,Body Care,29.72,18.75,114
+1754,Gentle Shampoo 75ml,Shampoo,Shampoo,10.38,7.25,134
+1755,Fresh Nail Brush 200ml,Nail Brush,Nail Tools,36.01,25.07,124
+1756,Gentle Blush 75ml,Blush,Makeup,23.15,10.49,120
+1757,Revive Nail Clippers 100ml,Nail Clippers,Nail Tools,5.62,2.66,109
+1758,Nourish Nail Strengthener 150ml,Nail Strengthener,Nail Care,6.38,3.61,127
+1759,Calming Nail Polish 150ml,Nail Polish,Nail Care,6.22,4.1,113
+1760,Soothing Mascara 50ml,Mascara,Makeup,6.33,3.05,131
+1761,Bright Body Scrub 250ml,Body Scrub,Body Care,6.84,4.63,130
+1762,Radiant Hair Serum 250ml,Hair Serum,Hair Treatment,32.11,21.07,134
+1763,Velvet Face Serum 75ml,Face Serum,Face Care,17.56,11.15,110
+1764,Fresh Body Scrub 75ml,Body Scrub,Body Care,33.32,21.89,122
+1765,Botanical Blush 50ml,Blush,Makeup,6.71,2.86,145
+1766,Velvet Base Coat 100ml,Base Coat,Nail Care,4.79,2.03,106
+1767,Silk Foundation 30ml,Foundation,Makeup,8.24,4.96,101
+1768,Soothing BB Cream 75ml,BB Cream,Face Care,28.63,11.68,116
+1769,Pure Cuticle Oil 75ml,Cuticle Oil,Nail Care,29.92,13.75,130
+1770,Nourish Toner 75ml,Toner,Face Care,13.71,6.01,114
+1771,Fresh Nail File 200ml,Nail File,Nail Tools,21.28,14.85,116
+1772,Fresh Body Scrub 100ml,Body Scrub,Body Care,10.97,5.56,93
+1773,Nourish Face Cleanser 250ml,Face Cleanser,Face Care,9.2,5.47,117
+1774,Bright Body Lotion 250ml,Body Lotion,Body Care,22.6,9.71,114
+1775,Fresh Body Wash 30ml,Body Wash,Body Care,27.95,14.25,125
+1776,Soothing Shampoo 150ml,Shampoo,Shampoo,68.88,36.16,139
+1777,Fresh Hand Cream 30ml,Hand Cream,Hand Care,7.4,4.59,132
+1778,Hydra Foundation 200ml,Foundation,Makeup,6.7,3.91,109
+1779,Glow Hair Serum 50ml,Hair Serum,Hair Treatment,11.06,4.49,125
+1780,Soothing Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,26.86,18.44,113
+1781,Luxe Body Lotion 250ml,Body Lotion,Body Care,81.96,51.87,132
+1782,Clarifying Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,18.42,8.36,107
+1783,Bright Hair Serum 200ml,Hair Serum,Hair Treatment,8.25,3.51,120
+1784,Revive Cuticle Oil 150ml,Cuticle Oil,Nail Care,6.61,4.01,98
+1785,Soothing Foundation 75ml,Foundation,Makeup,10.32,4.3,113
+1786,Nourish Base Coat 200ml,Base Coat,Nail Care,19.76,12.23,125
+1787,Balance Cuticle Oil 200ml,Cuticle Oil,Nail Care,29.08,14.34,122
+1788,Fresh Nail Brush 50ml,Nail Brush,Nail Tools,19.59,12.66,144
+1789,Calming Toner 30ml,Toner,Face Care,9.25,5.65,110
+1790,Gentle Blush 100ml,Blush,Makeup,5.78,3.55,126
+1791,Bright Nail Polish 100ml,Nail Polish,Nail Care,27.79,12.29,125
+1792,Nourish Shampoo 150ml,Shampoo,Shampoo,10.59,6.68,124
+1793,Radiant Body Lotion 250ml,Body Lotion,Body Care,11.31,6.83,100
+1794,Hydra Hair Mask 100ml,Hair Mask,Hair Mask,7.31,3.12,135
+1795,Balance Shampoo 250ml,Shampoo,Shampoo,4.74,2.32,102
+1796,Revive Top Coat 75ml,Top Coat,Nail Care,61.31,41.05,113
+1797,Luxe BB Cream 150ml,BB Cream,Face Care,9.71,3.93,123
+1798,Fresh Foundation 150ml,Foundation,Makeup,3.42,2.04,85
+1799,Revive Base Coat 75ml,Base Coat,Nail Care,18.73,10.54,123
+1800,Nourish Body Lotion 250ml,Body Lotion,Body Care,14.61,7.48,131
+1801,Gentle Body Lotion 30ml,Body Lotion,Body Care,3.68,2.31,118
+1802,Hydra Shampoo 250ml,Shampoo,Shampoo,40.96,26.43,120
+1803,Glow Hand Cream 100ml,Hand Cream,Hand Care,27.93,12.62,116
+1804,Pure Body Wash 100ml,Body Wash,Body Care,32.27,18.65,120
+1805,Clarifying Hair Mask 200ml,Hair Mask,Hair Mask,20.37,12.11,135
+1806,Glow Body Scrub 150ml,Body Scrub,Body Care,5.8,2.76,106
+1807,Fresh Nail Clippers 50ml,Nail Clippers,Nail Tools,15.65,8.67,142
+1808,Glow Body Lotion 200ml,Body Lotion,Body Care,11.19,6.11,136
+1809,Silk Base Coat 100ml,Base Coat,Nail Care,9.78,4.73,113
+1810,Fresh Face Serum 150ml,Face Serum,Face Care,60.89,30.18,126
+1811,Luxe Nail File 250ml,Nail File,Nail Tools,7.44,3.38,141
+1812,Balance BB Cream 150ml,BB Cream,Face Care,11.35,5.34,138
+1813,Pure Body Wash 250ml,Body Wash,Body Care,16.95,7.64,122
+1814,Botanical Nail Strengthener 250ml,Nail Strengthener,Nail Care,22.54,10.15,128
+1815,Repair Hair Serum 200ml,Hair Serum,Hair Treatment,63.68,36.72,112
+1816,Velvet Face Serum 200ml,Face Serum,Face Care,14.43,7.51,122
+1817,Soothing Hair Mask 30ml,Hair Mask,Hair Mask,20.75,11.29,115
+1818,Glow Nail File 50ml,Nail File,Nail Tools,6.27,3.58,135
+1819,Glow Top Coat 50ml,Top Coat,Nail Care,26.06,12.63,117
+1820,Calming Face Cleanser 150ml,Face Cleanser,Face Care,77.35,51.03,128
+1821,Nourish Shampoo 250ml,Shampoo,Shampoo,11.68,6.02,136
+1822,Clarifying Body Scrub 250ml,Body Scrub,Body Care,31.26,18.11,114
+1823,Silk Body Scrub 75ml,Body Scrub,Body Care,5.32,2.9,98
+1824,Silk Nail Strengthener 200ml,Nail Strengthener,Nail Care,12.48,6.16,118
+1825,Botanical Lipstick 250ml,Lipstick,Makeup,12.99,5.9,115
+1826,Pure Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,21.79,14.77,102
+1827,Radiant Shampoo 200ml,Shampoo,Shampoo,14.71,7.52,124
+1828,Silk Hand Cream 200ml,Hand Cream,Hand Care,40.58,21.88,118
+1829,Clarifying Nail File 30ml,Nail File,Nail Tools,10.9,6.62,130
+1830,Bright Hair Oil 75ml,Hair Oil,Hair Treatment,29.51,18.6,117
+1831,Radiant Face Cream 150ml,Face Cream,Face Care,18.71,8.12,125
+1832,Pure Face Cream 250ml,Face Cream,Face Care,6.94,3.9,107
+1833,Velvet Foundation 75ml,Foundation,Makeup,2.77,1.84,110
+1834,Balance Top Coat 50ml,Top Coat,Nail Care,18.49,10.71,104
+1835,Hydra Scalp Serum 30ml,Scalp Serum,Hair Treatment,9.51,5.88,106
+1836,Repair Foundation 100ml,Foundation,Makeup,20.5,11.77,116
+1837,Fresh Nail Polish 200ml,Nail Polish,Nail Care,6.0,3.31,115
+1838,Nourish Nail Clippers 200ml,Nail Clippers,Nail Tools,25.2,17.22,128
+1839,Hydra Body Wash 150ml,Body Wash,Body Care,57.67,30.4,119
+1840,Glow Face Cream 50ml,Face Cream,Face Care,13.58,9.0,111
+1841,Bright Lipstick 100ml,Lipstick,Makeup,3.33,2.32,137
+1842,Clarifying Nail Clippers 100ml,Nail Clippers,Nail Tools,15.73,10.52,136
+1843,Calming Mascara 250ml,Mascara,Makeup,9.3,5.4,115
+1844,Botanical Blush 150ml,Blush,Makeup,7.71,3.87,121
+1845,Bright Face Cream 30ml,Face Cream,Face Care,13.91,6.02,101
+1846,Luxe Conditioner 250ml,Conditioner,Conditioner,36.5,25.28,119
+1847,Luxe Nail File 100ml,Nail File,Nail Tools,10.37,4.29,105
+1848,Repair Shampoo 150ml,Shampoo,Shampoo,28.73,19.86,114
+1849,Hydra Nail Strengthener 75ml,Nail Strengthener,Nail Care,13.84,7.17,96
+1850,Velvet Nail Brush 250ml,Nail Brush,Nail Tools,15.3,9.6,108
+1851,Gentle Toner 250ml,Toner,Face Care,39.39,20.14,137
+1852,Fresh Blush 75ml,Blush,Makeup,13.15,6.26,122
+1853,Radiant Blush 75ml,Blush,Makeup,30.35,14.95,111
+1854,Revive Blush 75ml,Blush,Makeup,13.71,6.93,104
+1855,Silk Face Cream 200ml,Face Cream,Face Care,25.73,16.5,124
+1856,Botanical Blush 200ml,Blush,Makeup,13.3,7.67,114
+1857,Bright Hair Mask 30ml,Hair Mask,Hair Mask,18.86,11.27,134
+1858,Pure Hair Mask 250ml,Hair Mask,Hair Mask,20.2,9.35,130
+1859,Luxe Mascara 30ml,Mascara,Makeup,28.24,15.28,132
+1860,Velvet Lip Balm 150ml,Lip Balm,Makeup,24.14,10.65,115
+1861,Calming Scalp Serum 250ml,Scalp Serum,Hair Treatment,8.37,3.69,136
+1862,Nourish Nail Strengthener 75ml,Nail Strengthener,Nail Care,70.54,35.57,134
+1863,Soothing Lipstick 30ml,Lipstick,Makeup,16.79,9.95,120
+1864,Nourish Lipstick 75ml,Lipstick,Makeup,34.2,16.11,128
+1865,Radiant Nail Strengthener 250ml,Nail Strengthener,Nail Care,2.43,1.46,115
+1866,Calming Scalp Serum 250ml,Scalp Serum,Hair Treatment,31.27,21.05,131
+1867,Hydra Body Wash 150ml,Body Wash,Body Care,30.33,18.44,107
+1868,Radiant Hand Cream 50ml,Hand Cream,Hand Care,19.83,13.59,117
+1869,Velvet Top Coat 30ml,Top Coat,Nail Care,2.7,1.16,115
+1870,Nourish Body Lotion 50ml,Body Lotion,Body Care,9.23,3.86,121
+1871,Calming Toner 100ml,Toner,Face Care,7.25,4.78,97
+1872,Botanical Lip Balm 75ml,Lip Balm,Makeup,41.69,25.51,106
+1873,Luxe Foundation 150ml,Foundation,Makeup,6.28,3.4,121
+1874,Soothing Foundation 30ml,Foundation,Makeup,25.62,13.41,115
+1875,Fresh Top Coat 150ml,Top Coat,Nail Care,13.04,5.3,138
+1876,Pure Hair Mask 150ml,Hair Mask,Hair Mask,39.11,25.22,136
+1877,Soothing Conditioner 50ml,Conditioner,Conditioner,19.75,12.8,127
+1878,Nourish Foundation 200ml,Foundation,Makeup,9.81,4.82,118
+1879,Revive Hair Serum 50ml,Hair Serum,Hair Treatment,8.85,4.02,124
+1880,Calming Nail Brush 75ml,Nail Brush,Nail Tools,11.55,4.68,139
+1881,Pure Leave-in Treatment 200ml,Leave-in Treatment,Hair Treatment,1.39,0.97,127
+1882,Hydra Lipstick 250ml,Lipstick,Makeup,67.79,34.23,119
+1883,Glow Body Scrub 250ml,Body Scrub,Body Care,47.05,24.65,121
+1884,Silk Shampoo 50ml,Shampoo,Shampoo,17.36,7.02,110
+1885,Radiant Conditioner 75ml,Conditioner,Conditioner,34.87,15.53,113
+1886,Hydra Top Coat 75ml,Top Coat,Nail Care,15.97,10.9,115
+1887,Silk Cuticle Oil 200ml,Cuticle Oil,Nail Care,23.31,16.28,119
+1888,Hydra Hair Oil 50ml,Hair Oil,Hair Treatment,36.22,19.18,119
+1889,Hydra Nail Polish 50ml,Nail Polish,Nail Care,13.59,7.23,101
+1890,Balance Hair Serum 50ml,Hair Serum,Hair Treatment,30.54,15.82,126
+1891,Clarifying Body Wash 250ml,Body Wash,Body Care,3.91,2.71,125
+1892,Bright Nail Strengthener 250ml,Nail Strengthener,Nail Care,19.52,11.16,107
+1893,Calming Face Cream 250ml,Face Cream,Face Care,16.26,10.37,122
+1894,Nourish Cuticle Oil 200ml,Cuticle Oil,Nail Care,12.53,5.47,139
+1895,Calming Shampoo 250ml,Shampoo,Shampoo,13.94,5.82,139
+1896,Clarifying Body Lotion 100ml,Body Lotion,Body Care,13.55,8.57,121
+1897,Luxe Conditioner 200ml,Conditioner,Conditioner,39.9,19.23,113
+1898,Luxe Face Cleanser 250ml,Face Cleanser,Face Care,15.7,10.07,114
+1899,Nourish Face Cream 100ml,Face Cream,Face Care,157.13,97.69,124
+1900,Gentle Base Coat 200ml,Base Coat,Nail Care,7.76,3.57,127
+1901,Calming Leave-in Treatment 30ml,Leave-in Treatment,Hair Treatment,25.63,13.07,123
+1902,Glow Scalp Serum 75ml,Scalp Serum,Hair Treatment,33.65,16.9,107
+1903,Calming Lipstick 150ml,Lipstick,Makeup,12.04,8.1,122
+1904,Pure Body Wash 30ml,Body Wash,Body Care,6.23,2.84,130
+1905,Gentle Face Serum 100ml,Face Serum,Face Care,11.46,5.36,119
+1906,Hydra Scalp Serum 100ml,Scalp Serum,Hair Treatment,5.72,2.93,122
+1907,Fresh Conditioner 30ml,Conditioner,Conditioner,8.51,3.93,124
+1908,Hydra Nail Brush 200ml,Nail Brush,Nail Tools,22.41,11.57,113
+1909,Pure Foundation 200ml,Foundation,Makeup,130.58,78.85,102
+1910,Glow Leave-in Treatment 100ml,Leave-in Treatment,Hair Treatment,65.92,27.56,118
+1911,Calming Face Cream 250ml,Face Cream,Face Care,10.11,5.25,117
+1912,Botanical Nail Strengthener 250ml,Nail Strengthener,Nail Care,35.04,14.98,110
+1913,Pure Nail Clippers 100ml,Nail Clippers,Nail Tools,12.29,7.87,131
+1914,Calming Nail Brush 30ml,Nail Brush,Nail Tools,8.2,5.69,123
+1915,Calming BB Cream 50ml,BB Cream,Face Care,15.39,7.7,124
+1916,Glow BB Cream 100ml,BB Cream,Face Care,2.86,1.32,129
+1917,Soothing Shampoo 50ml,Shampoo,Shampoo,4.29,1.9,128
+1918,Nourish Mascara 200ml,Mascara,Makeup,34.14,19.04,111
+1919,Luxe Face Cream 100ml,Face Cream,Face Care,48.97,29.2,106
+1920,Botanical Toner 250ml,Toner,Face Care,2.24,1.46,129
+1921,Soothing Conditioner 100ml,Conditioner,Conditioner,52.77,21.49,118
+1922,Nourish Nail Strengthener 150ml,Nail Strengthener,Nail Care,41.55,18.88,123
+1923,Bright Body Wash 75ml,Body Wash,Body Care,12.44,6.53,112
+1924,Balance Face Cleanser 50ml,Face Cleanser,Face Care,23.66,13.17,118
+1925,Balance Top Coat 75ml,Top Coat,Nail Care,70.37,29.79,91
+1926,Silk Lipstick 30ml,Lipstick,Makeup,43.85,22.01,117
+1927,Repair Toner 50ml,Toner,Face Care,24.42,13.98,123
+1928,Velvet Body Lotion 30ml,Body Lotion,Body Care,9.9,5.27,120
+1929,Velvet Dry Shampoo 100ml,Dry Shampoo,Shampoo,11.84,7.96,127
+1930,Fresh Hair Oil 50ml,Hair Oil,Hair Treatment,28.77,13.15,120
+1931,Soothing Lipstick 200ml,Lipstick,Makeup,25.37,16.65,127
+1932,Balance Nail Polish 250ml,Nail Polish,Nail Care,41.66,23.49,114
+1933,Clarifying Face Serum 250ml,Face Serum,Face Care,5.18,2.8,108
+1934,Botanical Hair Oil 250ml,Hair Oil,Hair Treatment,23.48,14.05,139
+1935,Silk Nail Brush 100ml,Nail Brush,Nail Tools,29.24,16.59,130
+1936,Bright Nail Polish 150ml,Nail Polish,Nail Care,13.55,9.32,112
+1937,Calming Body Scrub 50ml,Body Scrub,Body Care,110.57,77.07,134
+1938,Hydra BB Cream 100ml,BB Cream,Face Care,8.23,5.16,120
+1939,Soothing Top Coat 50ml,Top Coat,Nail Care,15.72,6.4,116
+1940,Clarifying Leave-in Treatment 150ml,Leave-in Treatment,Hair Treatment,29.51,14.17,113
+1941,Silk Nail File 150ml,Nail File,Nail Tools,32.81,22.93,112
+1942,Hydra Lip Balm 150ml,Lip Balm,Makeup,13.51,7.96,115
+1943,Bright Nail Polish 150ml,Nail Polish,Nail Care,13.49,8.82,118
+1944,Silk Face Cream 30ml,Face Cream,Face Care,28.76,19.42,122
+1945,Nourish Face Cleanser 30ml,Face Cleanser,Face Care,23.84,12.01,119
+1946,Revive Cuticle Oil 150ml,Cuticle Oil,Nail Care,17.7,11.51,122
+1947,Calming Nail Polish 50ml,Nail Polish,Nail Care,3.71,1.79,126
+1948,Botanical Nail Clippers 250ml,Nail Clippers,Nail Tools,18.51,12.13,117
+1949,Velvet Toner 75ml,Toner,Face Care,59.87,33.15,126
+1950,Pure Leave-in Treatment 250ml,Leave-in Treatment,Hair Treatment,26.35,11.12,131
+1951,Silk Hair Serum 100ml,Hair Serum,Hair Treatment,8.84,3.92,125
+1952,Botanical Shampoo 50ml,Shampoo,Shampoo,5.12,2.56,111
+1953,Nourish Hair Oil 30ml,Hair Oil,Hair Treatment,35.41,19.99,115
+1954,Hydra Lipstick 250ml,Lipstick,Makeup,11.38,7.69,103
+1955,Botanical Mascara 250ml,Mascara,Makeup,47.86,25.85,100
+1956,Glow Blush 200ml,Blush,Makeup,46.99,23.36,127
+1957,Nourish Hand Cream 200ml,Hand Cream,Hand Care,14.6,8.96,127
+1958,Botanical Nail Polish 30ml,Nail Polish,Nail Care,21.33,9.38,102
+1959,Silk Face Cleanser 50ml,Face Cleanser,Face Care,23.57,12.72,129
+1960,Bright Foundation 30ml,Foundation,Makeup,6.3,3.78,105
+1961,Soothing Shampoo 200ml,Shampoo,Shampoo,64.41,42.65,126
+1962,Revive Shampoo 200ml,Shampoo,Shampoo,24.51,11.08,124
+1963,Gentle Shampoo 250ml,Shampoo,Shampoo,18.59,12.71,117
+1964,Hydra Cuticle Oil 200ml,Cuticle Oil,Nail Care,36.2,17.35,120
+1965,Botanical Body Lotion 200ml,Body Lotion,Body Care,20.99,10.98,100
+1966,Velvet Hand Cream 50ml,Hand Cream,Hand Care,6.89,3.0,127
+1967,Luxe Conditioner 75ml,Conditioner,Conditioner,8.63,5.8,110
+1968,Revive Hair Serum 30ml,Hair Serum,Hair Treatment,2.95,1.81,120
+1969,Fresh Scalp Serum 150ml,Scalp Serum,Hair Treatment,17.34,11.64,139
+1970,Balance Shampoo 150ml,Shampoo,Shampoo,25.58,13.21,134
+1971,Fresh Top Coat 30ml,Top Coat,Nail Care,14.15,8.06,133
+1972,Radiant Foundation 200ml,Foundation,Makeup,6.52,2.95,141
+1973,Silk Nail Clippers 30ml,Nail Clippers,Nail Tools,11.07,5.6,104
+1974,Fresh Base Coat 30ml,Base Coat,Nail Care,12.24,8.27,114
+1975,Pure Conditioner 200ml,Conditioner,Conditioner,32.91,16.84,116
+1976,Nourish Hair Mask 75ml,Hair Mask,Hair Mask,51.7,25.94,114
+1977,Nourish Toner 75ml,Toner,Face Care,1.84,0.94,101
+1978,Fresh Cuticle Oil 150ml,Cuticle Oil,Nail Care,15.44,9.91,128
+1979,Fresh Nail File 75ml,Nail File,Nail Tools,10.14,4.56,140
+1980,Calming Blush 50ml,Blush,Makeup,13.35,8.63,109
+1981,Velvet Hair Serum 200ml,Hair Serum,Hair Treatment,32.25,15.21,138
+1982,Calming Foundation 200ml,Foundation,Makeup,11.03,4.9,124
+1983,Balance Lip Balm 75ml,Lip Balm,Makeup,28.43,12.25,119
+1984,Soothing Hand Cream 100ml,Hand Cream,Hand Care,80.89,35.21,131
+1985,Repair Dry Shampoo 150ml,Dry Shampoo,Shampoo,11.47,4.78,116
+1986,Soothing Conditioner 50ml,Conditioner,Conditioner,13.82,7.73,125
+1987,Balance Toner 150ml,Toner,Face Care,13.58,8.66,126
+1988,Bright Nail Clippers 75ml,Nail Clippers,Nail Tools,111.01,51.25,115
+1989,Revive Dry Shampoo 250ml,Dry Shampoo,Shampoo,11.02,4.88,123
+1990,Calming Nail Polish 200ml,Nail Polish,Nail Care,53.3,34.48,116
+1991,Luxe Base Coat 200ml,Base Coat,Nail Care,15.98,6.75,131
+1992,Gentle Toner 50ml,Toner,Face Care,18.84,8.44,95
+1993,Luxe Nail File 200ml,Nail File,Nail Tools,31.9,16.11,117
+1994,Clarifying Body Scrub 75ml,Body Scrub,Body Care,12.2,6.86,132
+1995,Revive Lipstick 30ml,Lipstick,Makeup,36.09,23.09,121
+1996,Pure Shampoo 50ml,Shampoo,Shampoo,13.18,5.79,109
+1997,Silk Hair Mask 200ml,Hair Mask,Hair Mask,6.99,3.49,118
+1998,Velvet Dry Shampoo 200ml,Dry Shampoo,Shampoo,37.09,25.62,141
+1999,Revive Body Scrub 100ml,Body Scrub,Body Care,26.8,11.16,129
+2000,Nourish Scalp Serum 200ml,Scalp Serum,Hair Treatment,10.29,5.56,133
